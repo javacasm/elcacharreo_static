@@ -1,0 +1,18 @@
+--- 
+layout: reply
+status: publish
+published: false
+wordpress_id: 1078
+wordpress_url: http://blog.elcacharreo.com/foros/responder/1078/
+date: 2014-02-22 01:03:58 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+Hola Victor, un referente en todos estos temas siempre ha sido http://www.micropik.com/
+Hace tiempo que no compro nada allí (ya sabes que yo soy muy de Arduino ;) ), pero tienen buena fama.
+
+Un saludo y no dejes de contarnos.

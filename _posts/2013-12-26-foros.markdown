@@ -1,0 +1,19 @@
+--- 
+layout: page
+status: publish
+published: true
+title: foros
+author: javacasm
+author_login: javacasm
+author_email: javacasm@elcacharreo.com
+wordpress_id: 974
+wordpress_url: http://blog.elcacharreo.com/?page_id=974
+date: 2013-12-26 19:55:45 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+

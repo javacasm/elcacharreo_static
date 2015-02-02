@@ -1,0 +1,21 @@
+--- 
+layout: reply
+status: publish
+published: false
+wordpress_id: 1023
+wordpress_url: http://blog.elcacharreo.com/foros/responder/1023/
+date: 2013-12-27 14:48:53 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+Hola,
+
+Puedes indicarnos cuales tiendas recomiendas para partes electronicos en general (Farnell, Digi-key, Mouser, Jameco,...)?
+
+Un saludo - Bill
+
+ps: gracias por el foro :)

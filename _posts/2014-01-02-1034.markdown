@@ -1,0 +1,16 @@
+--- 
+layout: reply
+status: publish
+published: false
+wordpress_id: 1034
+wordpress_url: http://blog.elcacharreo.com/foros/responder/1034/
+date: 2014-01-02 12:26:23 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+¿Puede ser que el de electreaks esté mal?
+¡Gracias por estos enlaces tan interesantes!
