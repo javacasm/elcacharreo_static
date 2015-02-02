@@ -10,14 +10,15 @@ author_url: http://www.elcacharreo.com
 wordpress_id: 2
 wordpress_url: http://elcacharreo.com/blog/?page_id=2
 date: 2011-05-26 22:39:48 +02:00
-categories: []
+categories: [blog]
 
-tags: []
+tags: [blog]
 
 comments: []
 
 ---
-[es]¿qué se puede encontrar en un sitio que se llama elCacharreo.com?
+
+¿Qué se puede encontrar en un sitio que se llama elCacharreo.com?
 
 Pues de todo un poco, de todo lo que tenga que ver con la tecnología o la informática, con la ciencia o con la ingeniería.
 
@@ -43,14 +44,3 @@ UGR: Profesor Física Estadística (1994-1998)</strong>
 </strong></div>
 </div>
 </div>
-[/es]
-[en]
-What can be found in a place called elCacharreo.com?
-
-A bit of everything, everything close totechnology or computer science, science or engineering.
-
-These experiences show the whole world.
-
-I hope that interesting projects will born here. Some drafts may not pass, others will start and then stop and some, maybe one will come to completion.
-
-But they all make a learning path that will make sense in itself.[/en]

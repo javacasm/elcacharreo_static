@@ -1,7 +1,7 @@
 --- 
 layout: reply
 status: publish
-published: true
+published: false
 wordpress_id: 1039
 wordpress_url: http://blog.elcacharreo.com/foros/responder/1039/
 date: 2014-01-04 12:32:17 +01:00
