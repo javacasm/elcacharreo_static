@@ -10,6 +10,7 @@ wordpress_id: 480
 wordpress_url: http://blog.elcacharreo.com/?page_id=480
 date: 2012-05-24 16:50:17 +02:00
 categories: []
+permalink: /contacto
 
 tags: []
 
