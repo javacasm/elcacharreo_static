@@ -9,6 +9,7 @@ author_email: javacasm@elcacharreo.com
 wordpress_id: 1088
 wordpress_url: http://blog.elcacharreo.com/?page_id=1088
 date: 2014-02-27 14:07:21 +01:00
+permalink: /cursos
 categories: []
 
 tags: []

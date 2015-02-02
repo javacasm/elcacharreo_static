@@ -10,7 +10,7 @@ wordpress_id: 1122
 wordpress_url: http://blog.elcacharreo.com/?page_id=1122
 date: 2014-03-21 00:25:18 +01:00
 categories: []
-
+permalink: /proyectos
 tags: []
 
 comments: []
