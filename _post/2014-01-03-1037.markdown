@@ -1,0 +1,19 @@
+--- 
+layout: reply
+status: publish
+published: false
+author: javacasm
+author_login: javacasm
+author_email: javacasm@elcacharreo.com
+wordpress_id: 1037
+wordpress_url: http://blog.elcacharreo.com/foros/responder/1037/
+date: 2014-01-03 19:15:45 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+Hola Victor, en estos temas estoy bastante pez, pero seguro que alguno de los asistentes te puede ayudar.
+Un saludo!

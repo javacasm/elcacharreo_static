@@ -1,0 +1,45 @@
+--- 
+layout: page
+status: publish
+published: true
+title: Compras online
+author: javacasm
+author_login: javacasm
+author_email: javacasm@elcacharreo.com
+wordpress_id: 69
+wordpress_url: http://blog.elcacharreo.com/?page_id=69
+date: 2011-06-19 18:05:16 +02:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+<h1>Compras online</h1>
+En elCacharreo no vendemos, pero sí que sabemos qué comprar y donde comprarlo, porque nos pasamos el día haciéndolo :D
+
+Algunos elementos que utilizamos en los proyectos aquí expuestos, como por ejemplo:
+
+sensores de humedad y temperatura DHT11
+<img title="Sensor DHT11" alt="" src="http://www.robotshop.com/content/images//dfrobot-dht11-temperature-and-humidity-sensor-a.jpg" width="171" height="180" />
+
+kit de iniciación de arduino
+
+<img alt="kit de iniciación de arduino" src="https://lh6.googleusercontent.com/-gKFbn6hFV2E/Tf5XPo6FWmI/AAAAAAAAABc/zSoq6Lm9DKQ/s288/DSCF0442.JPG" />
+
+&nbsp;
+
+Para cualquier consulta enviar un email a shop@elcacharreo.com
+
+¿Donde compramos en elCacharreo? (por riguroso orden alfabético)
+<ul>
+	<li><a href="http://www.bricogeek.com/shop/">Brikogeek</a></li>
+	<li><a href="http://www.cooking-hacks.com/">Cooking Hacks</a></li>
+	<li><a href="http://www.dealextreme.com/">Dealextreme</a></li>
+	<li><a href="http://www.electan.com/">Electan</a></li>
+	<li><a href="http://www.elecfreaks.com/store/">Elecfreaks</a></li>
+	<li><a href="http://futurlec.com/">Futurlec</a></li>
+	<li><a href="http://es.rs-online.com/web/">rs-online</a></li>
+	<li><a href="http://www.sparkfun.com/">Sparkfun</a></li>
+</ul>

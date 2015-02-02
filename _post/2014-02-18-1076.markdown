@@ -1,0 +1,19 @@
+--- 
+layout: reply
+status: publish
+published: false
+wordpress_id: 1076
+wordpress_url: http://blog.elcacharreo.com/foros/responder/1076/
+date: 2014-02-18 22:01:47 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+Hola Oslalo,
+
+Gracias por el tutorial - voy a abrir una cuenta desarrollador para probar eso.
+
+Saludos - Bill

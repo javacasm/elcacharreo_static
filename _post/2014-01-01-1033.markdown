@@ -1,0 +1,27 @@
+--- 
+layout: reply
+status: publish
+published: false
+wordpress_id: 1033
+wordpress_url: http://blog.elcacharreo.com/foros/responder/1033/
+date: 2014-01-01 19:30:18 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+Hola,
+
+Por mi parte parte mi idea es hacerlo con un arduino clone (X-board de dfrobot) que tiene ethernet.
+
+Diego ya me contarás cuando empieces con el tema del servidor, yo hice el curso de servidores web también con CEVUG pero me di cuenta que me falta conocimientos de programación. Pero bueno ya miraremos como ayudarnos.
+
+Esta el tema del X10 pero la verdad que sobre esto no tengo ni idea.
+
+Bueno seguimos hablando....
+
+Feliz año 2014
+
+Saludos  

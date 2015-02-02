@@ -1,0 +1,20 @@
+--- 
+layout: reply
+status: publish
+published: false
+author: javacasm
+author_login: javacasm
+author_email: javacasm@elcacharreo.com
+wordpress_id: 1027
+wordpress_url: http://blog.elcacharreo.com/foros/responder/1027/
+date: 2013-12-28 00:17:29 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+Es verdad Guillermo que las listas han estado paradas... por eso he montado estos foros, para saber al menos los unos de los otros. ¿terminaste el coche con Arduino?
+
+Un saludo 

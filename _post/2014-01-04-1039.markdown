@@ -1,0 +1,17 @@
+--- 
+layout: reply
+status: publish
+published: false
+wordpress_id: 1039
+wordpress_url: http://blog.elcacharreo.com/foros/responder/1039/
+date: 2014-01-04 12:32:17 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+Toda ayuda será buena y yo mismo (si os interesa, claro) puedo ir contando por aquí lo que averigüe sobre software libre y [i]cacharreo[/i], que lo pienso seguir investigando.
+
+¡Gracias!

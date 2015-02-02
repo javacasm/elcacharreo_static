@@ -1,0 +1,37 @@
+--- 
+layout: topic
+status: publish
+published: true
+title: "Dom\xC3\xB3tica"
+wordpress_id: 1029
+wordpress_url: http://blog.elcacharreo.com/foros/topic/domotica/
+date: 2013-12-30 16:46:06 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+Hola a todos,
+
+Como ya se planteo en el curso de arduino avanzado que hicimos algunos paso aquí el planteamiento que se hizo para poder ir empezando tareas.
+
+- Como nodo maestro de la casa no estaría mal usar una Raspberry con un servidor LAMP, para poder acceder a ella desde cualquier pc y configurar el sistema, de forma parecida a como lo hace un router. Creo que esto es mejor que usar un Arduino maestro, dudo que se pueda hacer una interfaz web chula en Arduino (¿quizá en Yùn?
+
+- Como nodos maestros de la habitación, lo del ATtiny suena bien, pero lo veo muy complicado para mis conocimientos... Yo intentaría meter un módulo WiFi, al menos por habitación, con su propia IP, y comunicar vía sockets la Raspberry con Arduino.
+
+- Los nodos esclavos podrían estar repartidos por la habitación y usar diferentes formas de comunicación con su nodo maestro de habitación. Por ejemplo, el NRF, que no conozco, pero según ponéis parece fiable, o un simple módulo IR si no necesitamos confirmación de recepción de datos (como para cambiar un canal de TV).
+
+- Además, para que estuviera en la nube, montaría una web con LAMP que ofreciera una API con la que se comunicase la rasperry, desde la cual se pudiera manejar toda la casa.
+
+- Por último, como ha dicho un compañero, una SD para almacenar datos en caso de que la red se caiga.
+
+No sé si ahora, o cuando acabe el curso si nos diera tiempo, pero estaría genial repartir tareas para probar todas las ideas que tenemos y hacer una buena solución domótica!
+
+.....
+
+Yo por ahora estoy trabajando en un sensor de consumo eléctrico, al final he descartado el attiny85 y el módulo bluetooth HC-05 por problemas de código y comunicación entre varios módulos. Voy a substituirlos por arduino mini y los módulos NRF24L01, en cuanto me lleguen a casa me pongo a ello.
+
+Saludos
+Oscar
