@@ -1,0 +1,21 @@
+--- 
+layout: reply
+status: publish
+published: true
+wordpress_id: 1026
+wordpress_url: http://blog.elcacharreo.com/foros/responder/1026/
+date: 2013-12-27 23:28:59 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+Hombre profe, cuanto tiempo sin saber nada.
+
+Aprovecho para felicitarte el año nuevo.
+
+Un saludo.
+
+

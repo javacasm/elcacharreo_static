@@ -1,0 +1,19 @@
+--- 
+layout: forum
+status: publish
+published: true
+title: General
+author: javacasm
+author_login: javacasm
+author_email: javacasm@elcacharreo.com
+wordpress_id: 1016
+wordpress_url: http://blog.elcacharreo.com/?post_type=forum&#038;p=1016
+date: 2013-12-26 23:23:24 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+Para hablar de cualquier cosa

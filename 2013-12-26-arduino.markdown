@@ -1,0 +1,19 @@
+--- 
+layout: forum
+status: publish
+published: true
+title: Arduino
+author: javacasm
+author_login: javacasm
+author_email: javacasm@elcacharreo.com
+wordpress_id: 955
+wordpress_url: http://blog.elcacharreo.com/?post_type=forum&#038;p=955
+date: 2013-12-26 18:09:02 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+Para comentar cualquier tema sobre arduino

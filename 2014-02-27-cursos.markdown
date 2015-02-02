@@ -1,0 +1,36 @@
+--- 
+layout: page
+status: publish
+published: true
+title: Cursos
+author: javacasm
+author_login: javacasm
+author_email: javacasm@elcacharreo.com
+wordpress_id: 1088
+wordpress_url: http://blog.elcacharreo.com/?page_id=1088
+date: 2014-02-27 14:07:21 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+<img class="alignleft" style="margin: 10px;" src="https://lh5.googleusercontent.com/-hqT8N8lOGVU/T43d3MPP9aI/AAAAAAAAEW8/HRUM0dRLT9s/s400/100_1507.JPG" alt="" width="400" height="300" />La principal vocación de este sitio es la de colaborar en la difusión del conocimiento de todo lo relacionado con la tecnología, sobre todo orientado a la electrónica, robótica e informática.
+
+A lo largo de los últimos años se han impartido múltiples cursos y charla sobre diferente temáticas, principalmente sobre programación y uso de hardware abierto como Arduino o casi abierto (raspberry), pero también sobre otros temas como Android y Java.
+
+Algunos de estos cursos han sido presenciales y otros online.
+
+Vamos a recoger en estas páginas algunos de los materiales de los mismos.
+
+<p style="padding-left: 270px;">Cursos sobre arduino:
+<a href="http://blog.elcacharreo.com/cursos/arduino-basico-osl-cevug/">Curso básico de Arduino online</a></p>
+
+<p style="padding-left: 270px;"><a href="http://blog.elcacharreo.com/cursos/arduino-avanzado/">Curso Avanzado de Arduino online</a></p>
+
+&nbsp;
+
+Curso sobre Java: <a href="http://blog.elcacharreo.com/2013/12/16/curso-de-java-basico-para-android-online/">Curso online de Java básico para Android</a>
+
+Curso sobre Android: <a href="http://blog.elcacharreo.com/android-presencial-introduccion/">Curso de Introducción a la programación en Android</a>

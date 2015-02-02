@@ -1,0 +1,17 @@
+--- 
+layout: reply
+status: publish
+published: true
+wordpress_id: 1077
+wordpress_url: http://blog.elcacharreo.com/foros/responder/1077/
+date: 2014-02-22 01:00:21 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+¿qué tipo de conexión usas con internet? ¿wifi ó ethernet?
+
+Gracias por compartir la información

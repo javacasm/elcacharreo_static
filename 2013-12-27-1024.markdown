@@ -1,0 +1,17 @@
+--- 
+layout: reply
+status: publish
+published: true
+wordpress_id: 1024
+wordpress_url: http://blog.elcacharreo.com/foros/responder/1024/
+date: 2013-12-27 19:59:17 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+Saludos José Antonio y Bill, ya estoy aqui, mas que nada para probar el foro. Sobre tiendas de fiar, yo suelo comprar en DX - Dealextreme. Se que muchos productos no son de demasiada calidad, en ocasiones me ha pasado que los paquetes de protección son bastantes malos. Cuando tienes que cambiar algo es un sistema de tickets tan desesperante como cuando haces una gestión con una operadora de móvil. También que es del mismo estilo he comprado en miniinthebox que es del mismo tipo que DX. Las especificaciones de los productos en muchas ocasiones no se corresponden, tienes que leer los comentarios de los usuarios para saber lo que compras, ya que ellos no saben por donde van. Aun así para montajes de prototipos que no tengan mucha carga de trabajo yo por cuestión de precio seguiré comprando, ahora cuando se requiera fiabilidad recurriré a "Tiendas de Fiar".
+
+Saludos

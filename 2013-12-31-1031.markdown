@@ -1,0 +1,23 @@
+--- 
+layout: reply
+status: publish
+published: true
+author: javacasm
+author_login: javacasm
+author_email: javacasm@elcacharreo.com
+wordpress_id: 1031
+wordpress_url: http://blog.elcacharreo.com/foros/responder/1031/
+date: 2013-12-31 00:58:25 +01:00
+categories: []
+
+tags: []
+
+comments: []
+
+---
+Me encanta este tema.
+Me gusta el esquema de oslalo. Sólo no veo claro el tema del arduino wifi. Le tengo un poco de manía y además es caro (de momento, aunque están apareciendo unos módulos cc3000 http://www.adafruit.com/products/1491 con muy buena pinta y rendimiento).
+
+Yo confío bastante en los NRF y están tirados de precio.
+
+Un saludo y adelante con el proyecto!
