@@ -10,17 +10,18 @@ published: true
 * Zigbee
 * RF
 * Nordic 
-
+* GSM
 Veamos una tabla comparativa
 
-Nombre|conexión|alcance|coste|ancho de banda
------|----|----|----|----
-3Dr|UART/serie|barato|1-2Km|100Kb/s
-Bluetooth|UART/serie|barato|6-8m|100Kb/s
-Wifi|SPI/Serie|hay alternativas baratas|50m|1Mb/s
-Zigbee|UART/Serie|medio|1-2Km|100kb
-RF|digital|baratisimo|10m|1Kb/s
-Nordic|SPI|baratisimo|1-2km|2Mb/s
+Nombre|conexión|alcance|coste|ancho de banda|inconvenientes
+-----|----|----|----|----|----
+3Dr|UART/serie|barato|1-2Km|100Kb/s| --
+Bluetooth|UART/serie|barato|6-8m|100Kb/s|corto alcance
+Wifi|SPI/Serie|hay alternativas baratas|50m|1Mb/s|interferencias y mósulos complejos
+Zigbee|UART/Serie|medio|1-2Km|100kb|caros y propietarios
+RF|digital|baratisimo|10m|1Kb/s|muchísimas interferencias
+Nordic|SPI|baratisimo|1-2km|2Mb/s|--
+GSM|UART/Serie|medio|ilimitado|1Mb/s|necesita covertura y costes de uso
 
 
 
