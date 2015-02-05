@@ -1,3 +1,19 @@
 name: elCacharreo, static & fast version
 markdown: redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 pygments: true
+
+
+# Setup
+title:            elCacharreo
+tagline:          'Aprendiendo de todo'
+description:      'Vamos a prender a hacer de todo: Makers de pura cepa'
+url:              http://blog.elCacharreo.com
+baseurl:          /
+
+
+paginate:         5
