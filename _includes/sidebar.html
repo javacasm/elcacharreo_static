@@ -11,10 +11,8 @@
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+{% comment %}
 
-      {% comment %}
-iVaoms a crear la nube de etiquetas
-      {% endcomment %}
 <h1>Tag Cloud</h1>
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
@@ -25,6 +23,10 @@ iVaoms a crear la nube de etiquetas
     </a>
 </span>
 {% endfor %}
+
+{% endcomment %}
+
+
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
