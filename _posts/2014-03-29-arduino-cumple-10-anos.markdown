@@ -17,7 +17,7 @@ tags:
 comments: []
 
 ---
-<img class="alignleft" style="margin: 10px;" alt="" src="http://day.arduino.cc/wp-content/themes/arduinoWide/arduinoday/img/logo-01.png" width="250" />Mi referencia más antigua sobre arduino es del 20 de enero del 2006, lo he buscado en gmail con la búsqueda "arduino before:2007/1/1"
+<img class="alignleft" style="margin: 10px;" alt="" src="images/arduino_day.jpg" width="250" />Mi referencia más antigua sobre arduino es del 20 de enero del 2006, lo he buscado en gmail con la búsqueda "arduino before:2007/1/1"
 
 No son los 10 años que hoy cumple Arduino, sólo son 8 años y unos meses... durante estos 10 años son muchas las horas dedicadas a aprender a usarlo y también muchas las dedicadas a enseñar a usarlo.
 
