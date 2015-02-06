@@ -16,15 +16,14 @@ tags: []
 comments: []
 
 ---
-<div class="post-bodycopy clearfix">
 
-<span style="line-height: 1.5em;">Se trata de un curso Avanzado de Arduino para personas que ya tienen conocimientos previos de Arduino,  electrónica e informática.</span>
+Se trata de un curso Avanzado de Arduino para personas que ya tienen conocimientos previos de Arduino,  electrónica e informática.
 
 Se realiza junto con la <a href="http://osl.ugr.es">Oficina de Software Libre</a> de la  y el <a href="http://cevug.ugr.es">Centro de Enseñanzas Virtuales de la Universidad de Granada</a> y ya vamos por la 2<a href="http://blog.elcacharreo.com/2014/02/27/curso-online-basico-de-arduino-2014/">ª edición</a> que se celebrará en Octubre de 2014
 
 Este curso se realiza con metodología online, es decir a través de una plataforma web, con lo que puedes emplear el horario que más te interese.
 
-<span style="line-height: 1.5em;">En el curso se han incluido  una introducción a la electrónica y a la programación, en el curso aprendemos el funcionamiento de la plataforma Arduino, terminando el mismo con la elaboración de un proyecto.</span>
+En el curso se han incluido  una introducción a la electrónica y a la programación, en el curso aprendemos el funcionamiento de la plataforma Arduino, terminando el mismo con la elaboración de un proyecto.
 
 Puedes ver algunos de los vídeos del curso así como de los proyectos que han hecho  a lo largo del mismo en mi <a href="http://www.youtube.com/my_videos?o=U&amp;sq=is%3Apublic+arduino+curso">canal de youtube</a>
 
@@ -92,4 +91,3 @@ Temario:
 7. Proyecto: creación de una aplicación con Arduino
 	Tarea 7 - Proyecto final
 
-</div>
