@@ -1,7 +1,7 @@
 --- 
 layout: page
 status: publish
-published: true
+published: false
 title: "Android Presencial: Introducci\xC3\xB3n a la programaci\xC3\xB3n en Android"
 author: javacasm
 author_login: javacasm

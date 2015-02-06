@@ -1,7 +1,7 @@
 --- 
 layout: page
 status: publish
-published: true
+published: false
 title: Arduino Avanzado
 author: javacasm
 author_login: javacasm
