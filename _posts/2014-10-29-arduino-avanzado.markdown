@@ -31,65 +31,65 @@ Puedes ver algunos de los vídeos del curso así como de los proyectos que han h
 Página oficial del curso en el <a href="http://cevug.ugr.es/arduino_avanzado">Cevug</a>
 
 Temario:
+
 1. Introducción Arduino
-Repaso de programación
-Repaso programación de Arduino
-Repaso de hardware
-Guia de referencia Manual de Programación Arduino (Español) URL
-Repaso electrónica
-Evolución de Arduino Archivo
-Chuleta Arduino de SparkFun Archivo
+	Repaso de programación
+	Repaso programación de Arduino
+	Repaso de hardware
+	Guia de referencia Manual de Programación Arduino (Español) URL
+	Repaso electrónica
+	Evolución de Arduino Archivo
+	Chuleta Arduino de SparkFun Archivo
+
 2. Programación Avanzada
-El Entorno de programación de Arduino
-C y C++ Avanzado
-Uso avanzado de puertos
-Interrupciones Hardware
-Interrupciones Software
-PID - Control
-Midiendo el tiempo y Multitarea
-Creando librerías
-Ensamblador
+	El Entorno de programación de Arduino
+	C y C++ Avanzado
+	Uso avanzado de puertos
+	Interrupciones Hardware
+	Interrupciones Software
+	PID - Control
+	Midiendo el tiempo y Multitarea
+	Creando librerías
+	Ensamblador
 
 3. Expandiendo Arduino
-ADC
-DAC
-Trabajando con motores
-Sensores
-Sensores de corriente
-Visualizando - Displays
-Comunicaciones Radio
-Protocolos de comunicaciones
-Almacenamiento
-Infrarrojos
+	ADC
+	DAC
+	Trabajando con motores
+	Sensores
+	Sensores de corriente
+	Visualizando - Displays
+	Comunicaciones Radio
+	Protocolos de comunicaciones
+	Almacenamiento
+	Infrarrojos
 
 4. Más allá de Arduino
-Arduino DUE
-Arduino Yún
-Futuras Placas Arduino: TRE y Galileo
-ATMega, la familia extensa de Arduino
-JeeNode
-Arduino y PLC
-Otros arduinos
+	Arduino DUE
+	Arduino Yún
+	Futuras Placas Arduino: TRE y Galileo
+	ATMega, la familia extensa de Arduino
+	JeeNode
+	Arduino y PLC
+	Otros arduinos
 
 5. Procesado de datos desde el PC
-
-Comunicaciones Serie
-Comunicaciones Serie - Bluetooth
-Comunicando con internet
-Python
-Java
-Otras formas de comunicación
+	Comunicaciones Serie
+	Comunicaciones Serie - Bluetooth
+	Comunicando con internet
+	Python
+	Java
+	Otras formas de comunicación
 
 6. Proyectos y aplicaciones avanzadas
-
-Reloj digital con números Led
-Impresoras 3D - CNC
-QuadCopter
-Helicóptero RF
-Riego usando comunicaciones RF
-Domótica
+	Reloj digital con números Led
+	Impresoras 3D - CNC
+	QuadCopter
+	Helicóptero RF
+	Riego usando comunicaciones RF
+	Domótica
 
 7. Proyecto: creación de una aplicación con Arduino
-Tarea 7 - Proyecto final
+	Tarea 7 - Proyecto final
 
 </div>
