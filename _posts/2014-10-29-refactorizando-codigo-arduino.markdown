@@ -18,7 +18,7 @@ tags:
 comments: []
 
 ---
-<a href="http://blog.elcacharreo.com/wp-content/uploads/2013/10/Configuración-Sprinter.png"><img class="alignleft wp-image-916 size-medium" src="http://blog.elcacharreo.com/wp-content/uploads/2013/10/Configuración-Sprinter-250x300.png" alt="Configuración Sprinter" width="250" height="300" /></a>Si hay algo bueno de impartir cursos es la posibilidad de aprender con todo lo que hacen los alumnos. Hoy en el curso Avanzado de Arduino hemos estado viendo como optimizar y refactorizar código arduino.
+<a href="/images/uploads/2013/10/Configuración-Sprinter.png"><img class="alignleft wp-image-916 size-medium" src="/images/uploads/2013/10/Configuración-Sprinter-250x300.png" alt="Configuración Sprinter" width="250" height="300" /></a>Si hay algo bueno de impartir cursos es la posibilidad de aprender con todo lo que hacen los alumnos. Hoy en el curso Avanzado de Arduino hemos estado viendo como optimizar y refactorizar código arduino.
 
 Vamos a ver el ejemplo que no es otro que el código que permite hacer que un led se encienda o apague al plusar un pulsador. La parte que nos interesa es esta, donde se hace el enclavamiento, usando una variable Estado_Led que guarda el valor de este.
 
