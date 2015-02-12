@@ -15,7 +15,7 @@ Comenzaremos viendo las distintas alternativas y sus ventajas e incovenientes
 
 * 3Dr (UART sobre radio)
 * Bluetooth
-* Wifi
+* Wifi ([algo sobre el tema en este blog](http://blog.elcacharreo.com/tag/wifi/) )
 * Zigbee
 * RF
 * Nordic 
