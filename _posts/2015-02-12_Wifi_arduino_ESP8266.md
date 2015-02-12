@@ -5,6 +5,7 @@ published: true
 tag: telemetria,radio,arduino,wifi
 ---
 
+![ESP8266](http://www.cnx-software.com/wp-content/uploads/2014/08/ESP8266_Wi-Fi_Module.jpg)
 Hasta hace muy poco el conectar arduino a wifi era algo esencialmente caro, difícil y cuestionable: 
 * Caro porque los shield costaban del orden de los 70-80€, 
 * Difícil porque cada uno tenía su protocolo, su manera de configurarlos y sus propios problemas. Sé de gente a la que se le colgaba el router cuando conectaban su arduino al wifi.
@@ -22,6 +23,11 @@ En esta primera entrada sobre este tema, me voy a limitar a dar enlaces a alguno
 * [Arduino y wifi con ESP8266](http://www.prometec.net/arduino-wifi/) Donde podemos ver un repaso a muchos de los comandos AT y su funcionamiento.
 * [Control de un led vía wifi](http://83.56.32.125/esp8266.html) Ejemplo de como interaccionar vía web con el hardware (led, pero igual haríamos con un relé)
 * [WIFI module ESP8266 for IoT (lot of links)](http://www.epanorama.net/newepa/2014/11/09/wifi-module-esp8266-for-iot/) Gran fuente de enlaces en inglés muy detallados sobre el tema.
+* [Datalogger con ESP8266 y arduino](http://www.instructables.com/id/ESP8266-Wifi-Temperature-Logger/?lang=es) Muy detallado instructable de como montar un datalogger.
 * [ESP8266 WiFi Module Quick Start Guide](http://rancidbacon.com/files/kiwicon8/ESP8266_WiFi_Module_Quick_Start_Guide_v_1.0.4.pdf) Para empezar por el principio.
+* [Foros sobre ESP8266](http://www.esp8266.com/) Foros para preguntar sobre el ESP8266.
+* [Proyecto en HackaDay con ESP8266](http://hackaday.com/tag/esp8266/) La hiperactiva comunidad de HackaDay está repleta de proyectos que lo utilizan.
+
+¿Será la revolución del IoT que estamos esperando?
 
 Pronto nuestro propias pruebas, poniendo accesible la estación meteorológica.
