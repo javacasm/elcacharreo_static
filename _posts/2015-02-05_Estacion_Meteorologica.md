@@ -60,6 +60,8 @@ Ya tenemos todo montado y vamos a ver la salida
 ![resultado](https://lh5.googleusercontent.com/-s-vjoko-s1E/VNoCBJY3WOI/AAAAAAAAzF8/3kZm_zF91xM/w1061-h785-no/IMG_20150210_133140.jpg)
 
 Donde vemos que los datos son bastante correctos.
-Hemos probado todos los instructumentos y sus lecturas son correctas salvo el anemómetro que da siempre 0.
+Hemos probado todos los instructumentos y sus lecturas son correctas ~~salvo el anemómetro que da siempre 0~~.
 
 Viendo los componentes usados podemos pensar que no sería díficil buscar modelos en 3D de los componentes e imprimirlos....
+
+Actualizado 12-2-2015: En el código original de sparkfun hay un error, se llama 2 veces a la función get_wind_speed(), lo que da lugar a que entre una y otra no de tiempo a medir la velocidad realmente. Basta con leer la primera vez y la segunda tomar el valor leído. He propuesto el cambio a sparkfun a ver si lo acepta. Sería un honor para mi que lo hicieran. El código nuestro está corregido.
