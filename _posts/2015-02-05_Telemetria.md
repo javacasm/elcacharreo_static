@@ -22,7 +22,7 @@ Comenzaremos viendo las distintas alternativas y sus ventajas e incovenientes
 * GSM
 Veamos una tabla comparativa
 
-Nombre|conexión|alcance|coste|ancho de banda|inconvenientes
+Nombre|conexión|coste|alcance|ancho de banda|inconvenientes
 -----|----|----|----|----|----
 3Dr|UART/serie|barato|1-2Km|100Kb/s| --
 Bluetooth|UART/serie|barato|6-8m|100Kb/s|corto alcance
