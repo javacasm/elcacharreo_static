@@ -7,6 +7,7 @@ tag: telemetria,radio,arduino,wifi
 
 ![ESP8266](http://www.cnx-software.com/wp-content/uploads/2014/08/ESP8266_Wi-Fi_Module.jpg)
 Hasta hace muy poco el conectar arduino a wifi era algo esencialmente caro, difícil y cuestionable: 
+
 * Caro porque los shield costaban del orden de los 70-80€, 
 * Difícil porque cada uno tenía su protocolo, su manera de configurarlos y sus propios problemas. Sé de gente a la que se le colgaba el router cuando conectaban su arduino al wifi.
 * Cuestionable porque dado que el shield wifi se basaba en un microcontrolador, normalmente de 32 bits (para el tema de la encripción que necesitan los modernos wifis) y capaz de hacer mucho más que una placa arduino, dudabas si el proyecto estaba bien planteado.
