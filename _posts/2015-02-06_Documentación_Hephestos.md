@@ -9,6 +9,8 @@ published: false
 	* Existe unos pasos previos al montaje (incluir la tuercas en el plástico, limar los ejes 
 	de los motores)
 
+Hemos solicitado al soporte de bq ...
+
 
 Podemos empezar viendo [un vídeo](https://www.youtube.com/watch?v=c_TUTrBQ2XU) del siempre clarificador ObiJuan mientras hace el unboxing de una Hephestos
 
@@ -17,3 +19,4 @@ En [este otro vídeo](https://www.youtube.com/watch?v=nvTeJvRi8Bo) podemos ver r
 [Otro vídeo](https://www.youtube.com/watch?v=4B8IGs3vRCI) más artesano y más completo de 28 minutos
 
 Posteriormente veremos algunos vídeos que nos van a clarificar los puntos más delicados como son [el ajuste del eje Z](https://www.youtube.com/watch?v=gDcAXN6jsOc) o [la primera impresión](https://www.youtube.com/watch?v=s-7whacfyI4)
+
