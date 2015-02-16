@@ -23,11 +23,14 @@ Este shield no nos servirá para controlar una impresora 3D, pues normalmente ne
 Si queremos usar 
 
 ### GCode
+
 Existe un lenguaje estándar en las máquinas de control numérico llamado GCode y que permite definir los movimientos y enviar instrucciones a la máquina.
 
 El software para transformar estas órdenes en las distintas acciones sobre los drivers (en general sobre la electrónica) se llama GRBL, por supuesto es totalmente open-source y podemos ver todos los detalles en [github](https://github.com/grbl/grbl), donde hay, código, documentación y ejemplos de GCode.
 
 Podemos descargarlo como una librería arduino desde su github (recuerda cambiar el nombre a la carpeta generada por GBRL), la importamos, compilamos y la programamos nuestro Arduino con ella. (Me ha resultado curioso que dada la estructura de los ficheros podemos generar un ejecutable sólo con los includes). Por defecto la librería viene preparada para funcionar con Arduino UNO, aunque existen plantillas para otros modelos o podemos cambiar nosotros mismos la configuración en __cpu_map.h__.
+
+[Protoneer](http://blog.protoneer.co.nz/arduino-cnc-shield/), uno de los fabricantes/diseñadores del CNC Shield ha creado una versión de GBRL específica para Arduino que podemos encontrar en [su github](https://github.com/Protoneer/GRBL-Arduino-Library) ([un vídeo de ejemplo](https://www.youtube.com/watch?v=QDo-FGbBEpI))
 
 
 ### Enlaces
@@ -36,7 +39,7 @@ Podemos descargarlo como una librería arduino desde su github (recuerda cambiar
 
 [CNC para dibujar](https://sites.google.com/site/0miker0/home)
 [cortador/grabado laser](https://arduinoclub.wordpress.com/2014/05/22/arduino-3-axis-mini-lazer-paper-cutter/)
-[CNC básico con restos de PC](http://www.instructables.com/id/3-Axis-Arduino-Based-CNC-Controller/?lang=es)
+[CNC básico con restos de PC](http://www.instructables.com/id/3-Axis-Arduino-Based-CNC-Controller/?lang=es&ALLSTEPS)
 
 [Tutorial Ikkaro sobre CNC casera](https://www.youtube.com/watch?v=lvaBb-rPepY)
 
