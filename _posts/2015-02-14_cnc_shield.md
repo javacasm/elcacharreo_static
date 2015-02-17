@@ -20,8 +20,6 @@ Su esquema de conexión es el siguiente:
 
 Este shield no nos servirá para controlar una impresora 3D, pues normalmente necesitan al menos 4 motores (3 y el extrusor), teniendo que controlar además los distintos elementos calefactores y sensores de temperatura.
 
-Si queremos usar 
-
 ### GCode
 
 Existe un lenguaje estándar en las máquinas de control numérico llamado GCode y que permite definir los movimientos y enviar instrucciones a la máquina.
@@ -33,23 +31,12 @@ Podemos descargarlo como una librería arduino desde su github (recuerda cambiar
 [Protoneer](http://blog.protoneer.co.nz/arduino-cnc-shield/), uno de los fabricantes/diseñadores del CNC Shield ha creado una versión de GBRL específica para Arduino que podemos encontrar en [su github](https://github.com/Protoneer/GRBL-Arduino-Library) ([un vídeo de ejemplo](https://www.youtube.com/watch?v=QDo-FGbBEpI))
 
 
-### Enlaces
-
-[uso](http://forum.arduino.cc/index.php?topic=87714.525)
-
-[CNC para dibujar](https://sites.google.com/site/0miker0/home)
-[cortador/grabado laser](https://arduinoclub.wordpress.com/2014/05/22/arduino-3-axis-mini-lazer-paper-cutter/)
-[CNC básico con restos de PC](http://www.instructables.com/id/3-Axis-Arduino-Based-CNC-Controller/?lang=es&ALLSTEPS)
-
-[Tutorial Ikkaro sobre CNC casera](https://www.youtube.com/watch?v=lvaBb-rPepY)
-
-[Paso 1: mecánica](http://www.ikkaro.com/como-hacer-fresadora-cnc-casera/) [Paso 2: electrónica](http://www.ikkaro.com/como-hacer-fresadora-cnc-casera-parte-2/) [Paso 3: Software windows Gcode](http://www.ikkaro.com/como-hacer-fresadora-cnc-casera-parte-3/) [Paso 4: Programa arduino](http://www.ikkaro.com/como-hacer-fresadora-cnc-casera-parte-4/)
 
 ## CNC Shield 
 
 [CNC Shield](http://blog.protoneer.co.nz/arduino-cnc-shield/)
-[G-node](http://blog.protoneer.co.nz/arduino-cnc-controller/)
-[G-node](http://blog.protoneer.co.nz/quick-grbl-setup-guide-for-windows-arduino-g-code-interpreter/)
+[G-code en arduino](http://blog.protoneer.co.nz/arduino-cnc-controller/)
+[G-code en windows](http://blog.protoneer.co.nz/quick-grbl-setup-guide-for-windows-arduino-g-code-interpreter/)
 
 ## CNC Shield para Arduino Nano
 
@@ -60,6 +47,8 @@ Esquema de conexión del shield para Arduino Nano
 ![Pinout CNC para nano](http://cdn.instructables.com/FG8/GDCU/I5DSF1YL/FG8GDCUI5DSF1YL.LARGE.jpg)
 
 ## Ejemplos de código
+
+Vamos a ver distintos ejemplos de código desde el más sencillo para entender las interioridades de este tema, hasta el más complejo que nos va a dar las máximas prestaciones.
 
 ### Código genérico para mover un stepper con un pololu
 
@@ -117,10 +106,11 @@ Se trata de un código en el que se hace todo el movimiento "a mano", es decir s
 
 ### Librería AccelStepper
 
-Es una librería capaz de usar distintos tipos de drivers (pololus, puente en H, transistores,...)
+Es una librería capaz de usar distintos tipos de drivers (pololus, puente en H, transistores,...) y además permite definir tanto la velocidad del movimiento como las aceleraciones, ganando el movimiento en suavidad. Además permite definir un número de pasos para el motor los dé y con solo llamar períodicamente al método run (que actualiza el estado del movimienoto) podemos olvidarnos del manejo del motor.
 
-[documentación](https://www.pjrc.com/teensy/td_libs_AccelStepper.html)
-[librería](https://www.pjrc.com/teensy/arduino_libraries/AccelStepper-1.30.zip)
+[documentación](https://www.pjrc.com/teensy/td_libs_AccelStepper.html) [librería](https://www.pjrc.com/teensy/arduino_libraries/AccelStepper-1.30.zip)
+
+
 
 
 #### Ejemplo
@@ -160,3 +150,18 @@ Es una librería capaz de usar distintos tipos de drivers (pololus, puente en H,
 	    stepper2.run();
 	    Serial.println("run");
 	}
+
+
+### Enlaces
+
+Se trata de una colección de enlaces a proyectos interesantes
+
+[¿uso?](http://forum.arduino.cc/index.php?topic=87714.525)
+
+[CNC para dibujar](https://sites.google.com/site/0miker0/home)
+[cortador/grabado laser](https://arduinoclub.wordpress.com/2014/05/22/arduino-3-axis-mini-lazer-paper-cutter/)
+[CNC básico con restos de PC](http://www.instructables.com/id/3-Axis-Arduino-Based-CNC-Controller/?lang=es&ALLSTEPS)
+
+[Tutorial Ikkaro sobre CNC casera](https://www.youtube.com/watch?v=lvaBb-rPepY)
+
+[Paso 1: mecánica](http://www.ikkaro.com/como-hacer-fresadora-cnc-casera/) [Paso 2: electrónica](http://www.ikkaro.com/como-hacer-fresadora-cnc-casera-parte-2/) [Paso 3: Software windows Gcode](http://www.ikkaro.com/como-hacer-fresadora-cnc-casera-parte-3/) [Paso 4: Programa arduino](http://www.ikkaro.com/como-hacer-fresadora-cnc-casera-parte-4/)
