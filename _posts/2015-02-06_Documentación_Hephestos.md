@@ -20,3 +20,6 @@ En [este otro vídeo](https://www.youtube.com/watch?v=nvTeJvRi8Bo) podemos ver r
 
 Posteriormente veremos algunos vídeos que nos van a clarificar los puntos más delicados como son [el ajuste del eje Z](https://www.youtube.com/watch?v=gDcAXN6jsOc) o [la primera impresión](https://www.youtube.com/watch?v=s-7whacfyI4)
 
+[Documentación RepRap](http://reprap.org/wiki/Prusa_i3_Hephestos/es)
+
+[Página de Hephestos](http://www.bq.com/es/productos/prusa-hephestos.html)
