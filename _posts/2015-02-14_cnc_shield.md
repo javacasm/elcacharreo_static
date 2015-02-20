@@ -165,3 +165,8 @@ Se trata de una colección de enlaces a proyectos interesantes
 [Tutorial Ikkaro sobre CNC casera](https://www.youtube.com/watch?v=lvaBb-rPepY)
 
 [Paso 1: mecánica](http://www.ikkaro.com/como-hacer-fresadora-cnc-casera/) [Paso 2: electrónica](http://www.ikkaro.com/como-hacer-fresadora-cnc-casera-parte-2/) [Paso 3: Software windows Gcode](http://www.ikkaro.com/como-hacer-fresadora-cnc-casera-parte-3/) [Paso 4: Programa arduino](http://www.ikkaro.com/como-hacer-fresadora-cnc-casera-parte-4/)
+
+[Esquema CNC shield](http://stefanhermann.com/?p=353)
+
+[Guía de ensamblaje de CNC Shield](http://blog.protoneer.co.nz/arduino-cnc-shield-v3-00-assembly-guide/)
+[Usando CNC shield](http://forum.arduino.cc/index.php?topic=107322.0)

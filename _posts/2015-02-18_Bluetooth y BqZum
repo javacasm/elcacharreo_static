@@ -1,0 +1,19 @@
+Las imágenes de los tutoriales no indican la posición correcta de los jumpers del conmutador
+
+En la configuración de linux http://diwo.bq.com/zum-bt-328-carga-del-software-via-bluetooth/ 
+nunca apacecerá COMX, como se ve en la imagen. Ese el nombre de windows
+
+En ninguna de las versiones de arduino que tengo detectar el puerto rfcommx , con lo que tengo que editar el fichero preferences.txt para que lo permita.
+
+
+Parece que la limitación viene de la librería RXTX, que no reconoce ningún puerto distinto del formato ttyS.. o ttyM o ttyUSB... con lo que se puede resolver sin más que hacer un link a un puerto ficticio por ejemplo el 999
+
+	sudo ln -s  /dev/rfcomm0 /dev/ttyS99
+
+[fuente](http://stackoverflow.com/questions/15464475/how-to-setup-serial-communication-in-processing-to-dev-rfcomm)
+
+### Referencia
+
+[Comunicaciones serie bluetooth](http://diwo.bq.com/zum-bt-328-comunicacion-serie-a-traves-de-bluetooth-o-usb/)
+[Configuración del bluetooth con comandos AT](http://diwo.bq.com/zum-bt-328-configuracion-del-bluetooth-mediante-comandos-at/)
+[Cargar el software via bluetooth](http://diwo.bq.com/zum-bt-328-carga-del-software-via-bluetooth/)
