@@ -5,27 +5,28 @@ published: false
 ---
 Una de las cosas me más me ha llamado la atención ha sido la cuidada documentación: tenemos vídeos, tutoriales y en la caja una completa documentación en papel.
 
-** ¡¡¡ Por primera vez vamos empezar algo leyendo la documentación!!! **
+** ¡¡¡ Por primera vez vamos empezar algo leyendo antes la documentación!!! **
 
 Vamos a empezar revisando la documentación contenida en el caja:
 
-* ** Claramente aparece la url para tener acceso a la documentación online, yo añadiría un email/teléfono de soporte (que sí está accesible online) **
+Claramente aparece la url para tener acceso a la documentación online, yo añadiría un email/teléfono de soporte (que sí está accesible online).
 
 ![warning](https://lh3.googleusercontent.com/WgbycSIDg6Q8goIB0UTumpKg9e4hW4MZTXcEgaEnA-W8=w252-h333-p-no)
-* Advierten de que se pierde la garantía si modificamos la electrónica, por pasar de 230º la temperatura de hotend o si añadimos otros elementos (imagino que principalmente la cama caliente, debido a que sus 11-15A de consumo pueden llevar al límite a una Ramps)
+En la documentación se advierte claramente que perderemos la garantía si modificamos la electrónica, por ejemplo para pasar de 230º la temperatura de hotend o si añadimos otros elementos (imagino que principalmente la cama caliente, debido a que sus 11-15A de consumo pueden llevar al límite a una Ramps).
 
 ![blocks](https://lh4.googleusercontent.com/-eK22gN4mos4/VNi0OG3jMkI/AAAAAAAA1Hs/QnVY_UzYiUg/w446-h333-p-no/IMG_20150205_111608.jpg)
 
-La documentación está estructurada en bloques: 
+Podemos ver que la documentación está estructurada en bloques en diferentes libritos: 
 
 ![old](https://lh4.googleusercontent.com/-SpqwC2BeN6g/VNi0OD1v0sI/AAAAAAAA1Hc/9nRzsCd1SBQ/w446-h333-p-no/IMG_20150205_111712.jpg)
 
-* Existe unos pasos previos al montaje (incluir la tuercas en el plástico, limar los ejes 
-de los motores). En este punto veo que la documentación en papel debe ser algo antigua, porque los motores ya  vienen con el eje limado. Solicito al soporte de bq la nueva versión y me envía todo el paquete de documentación actualizado ¡¡y las piezas de plástico que se han actualizado desde la versión que yo tengo!! ** Un 10 para su soporte al cliente.**
+* Pasos previos al montaje: como por ejemplo "embutir" la tuercas en el plástico, insertar los rodamientos en las poleas, preparar los cables a su logitud precisa y limar los ejes de los motores. En este punto veo que la documentación en papel que tengo debe ser algo antigua, porque mis motores ya  vienen con el eje limado. Solicito al soporte de bq la nueva versión y me envía todo el paquete de documentación actualizado ¡¡y las piezas de plástico que se han actualizado desde la versión que yo tengo!! ** Un 10 para su soporte al cliente.**
 
-* Cada uno de los ejes constituye un paso lo que permite ir haciendo bloques que luego integraremos. 
+* Cada uno de los ejes viene explicado en un librito, formando un paso lo que permite ir haciendo bloques que luego integraremos. 
 
-* Finalmente tenemos un paso para el extrusor y otro para la electrónica.
+* Finalmente tenemos un librito para el extrusor y otro para la electrónica.
+
+* Se incluye también un librito sobre garantía y FAQ que ** recomiendo leer el primero ** porque nos da consejos que nos pueden evitar problemas, como no forzar las pienzas al insertar las varillas o lijar algunas piezas para facilitar el montaje.
 
 ![docu](https://lh5.googleusercontent.com/-nQznU2lW9r4/VNi0OMBogsI/AAAAAAAA1HU/5GGaPquZmhw/w414-h311-p-no/IMG_20150205_111624.jpg)
 
