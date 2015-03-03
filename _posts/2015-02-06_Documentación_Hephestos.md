@@ -1,7 +1,7 @@
 ---
 title: Montando una Prusa Hephestos II: Revisión de la documentación
 layout: post
-published: false
+published: true
 ---
 Una de las cosas me más me ha llamado la atención ha sido la cuidada documentación: tenemos vídeos, tutoriales y en la caja una completa documentación en papel.
 
