@@ -48,7 +48,7 @@ También podemos ver algunos otros vídeos que nos van a ayudar con el montaje:
 
 * [Otro vídeo](https://www.youtube.com/watch?v=4B8IGs3vRCI) más artesano y más completo que resume en 28 minutos el montaje completo.
 
-En definitiva, se ve una documentación de primera, a la altura del que parece un buen producto.
+En definitiva, se ve una documentación de primera, a la altura del que parece un buen producto, basado en productos open-hardware y con toda la documentación, código y diseños disponibles online.
 
 Javacasm
 
