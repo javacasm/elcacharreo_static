@@ -7,6 +7,7 @@ published: false
 ![cnc laser engraver](http://g02.a.alicdn.com/kf/HTB1CsZlGVXXXXaMXFXXq6xXFXXXi/222118304/HTB1CsZlGVXXXXaMXFXXq6xXFXXXi.jpg)
 
 He visto que hay hasta lasers de 2000mw. Ya se habló del tema en otro hilo por aquí sobre otra grabadora. Parece que los láseres violeta pueden grabar hasta metales. A ver si busco el enlace.
+[Mejora]Convierte tu impresora en una cortadora laser
 
 Un análisis rápido:
 Perfiles de aluminio de doble altura (¿T-slot?)
