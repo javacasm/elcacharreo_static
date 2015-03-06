@@ -13,4 +13,5 @@ published: false
 [Inside Tesla bateries](http://www.teslamotorsclub.com/showthread.php/13121-Inside-the-Tesla-battery-pack)
 [Modules inside batteries](http://insideevs.com/look-inside-a-tesla-model-s-battery-pac/)
 [Lots images from inside batteries](http://www.teslamotorsclub.com/showthread.php/34934-Pics-Info-Inside-the-battery-pack)
+[batteries cost](http://www.greencarreports.com/news/1084682_what-goes-into-a-tesla-model-s-battery--and-what-it-may-cost)
 ![inside Tesla battery](http://files.wizkid057.com/teslapack/2014-08-19%2019.13.08.jpg)
