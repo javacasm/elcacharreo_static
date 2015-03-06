@@ -23,6 +23,17 @@ Grabador laser basado en perfiles de aluminio (T-slot)
 [banggood](http://www.banggood.com/es/300mW-Desktop-DIY-Violet-Laser-Engraving-Machine-Picture-CNC-Printer-p-958365.html?utm_design=13&utm_source=emarsys&utm_medium=spain86_email&utm_campaign=newsletter-emarsys&utm_content=Claire&sc_src=email_1281195&sc_eh=b6345b9e09989cbb1&emst=c2PSWFBTgu_56530_1281195_102)
 
 
+Mira este diseño, es el que me dio la idea
+http://www.banggood.com/300mW-Desktop-DIY-Violet-Laser-Engraving-Machine-Picture-CNC-Printer-p-958365.html
+Me baso como tu en la base de una i3 con los siguientes cambios:
+* Dos correas por fuera de la extructura  para maximizar el área de trabajo
+* Usar un eje que va de lado a lado con 2 poleas, una para cada correa, y un solo motor que acciona el eje. Puede estar casi a la mista altura que la estructura del puente
+* Puedes bajar el puente porque ya no necesitas esa altura, con lo que puedes enfocar igual
+
+A ver si me busco un fichero freecad de la base de la i3 y lo modifico con mis ideas
+Gracias por tus comentarios.
+
+
 [perfiles](http://www.thingiverse.com/search/page:3?q=profile&sa=)
 
 [Especial láseres de Instructables](http://www.instructables.com/id/Burning-Lasers/)
