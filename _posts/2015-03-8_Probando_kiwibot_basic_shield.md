@@ -4,7 +4,7 @@ layout: post
 published: false
 ---
 
-Los amigos de [Leantec](http://www.leantec.es/) por mediación de [José Pujol](https://tecnopujol.wordpress.com/) me han hecho llegar un placa Kiwibot (y algunos complementos que comentaré otro día). Está desarrollado íntegramente por el [equipo de la Asociación Kiwibot](http://www.kiwibot.es/quienes_somos/) en España y más concretamente en Sevilla.
+Los amigos de [Leantec](http://www.leantec.es/) por mediación de [José Pujol](https://tecnopujol.wordpress.com/) (del que por cierto recomiendo su excelente [charla sobre Arduino](https://prezi.com/sjyu2znxwrq_/charla-arduino-kiwibot/)) me han hecho llegar un placa Kiwibot (y algunos complementos que comentaré otro día). Está desarrollado íntegramente por el [equipo de la Asociación Kiwibot](http://www.kiwibot.es/quienes_somos/) en España y más concretamente en Sevilla.
 
 
 
