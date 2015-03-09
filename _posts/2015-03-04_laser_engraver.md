@@ -43,3 +43,6 @@ A ver si me busco un fichero freecad de la base de la i3 y lo modifico con mis i
 Gracias por tus comentarios.
 
 [diyoupcb](http://www.diyouware.com/es/gallery?page=2)
+
+### Varios modelos a partir de dvd e impresoras
+[instructable](http://www.instructables.com/id/Laser-engraving-machine-Producing-Laser-Engraving-/)
