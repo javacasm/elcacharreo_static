@@ -1,4 +1,4 @@
----
+	---
 title: CNC Grabador laser
 layout: post
 published: false
@@ -41,3 +41,5 @@ Me baso como tu en la base de una i3 con los siguientes cambios:
 
 A ver si me busco un fichero freecad de la base de la i3 y lo modifico con mis ideas
 Gracias por tus comentarios.
+
+[diyoupcb](http://www.diyouware.com/es/gallery?page=2)
