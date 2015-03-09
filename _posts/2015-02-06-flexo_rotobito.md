@@ -11,3 +11,5 @@ published: false
 [pinokio](http://www.ben-dror.com/pinokio/)
 
 [flexo de ikea con servos](http://www.instructables.com/id/Robot-arm-from-a-desk-lamp-IKEA-Tertial-hack/all/?lang=es)
+
+[flexo con tablet](http://www.instructables.com/id/Create-a-DIY-tablet-stand/)
