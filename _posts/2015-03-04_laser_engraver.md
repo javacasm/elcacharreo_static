@@ -46,3 +46,5 @@ Gracias por tus comentarios.
 
 ### Varios modelos a partir de dvd e impresoras
 [instructable](http://www.instructables.com/id/Laser-engraving-machine-Producing-Laser-Engraving-/)
+
+[modelo big](http://www.instructables.com/id/3W-4x4-Arduino-Laser-CutterEngraver/?ALLSTEPS)
