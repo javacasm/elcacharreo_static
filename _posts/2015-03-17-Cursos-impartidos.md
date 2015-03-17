@@ -25,6 +25,8 @@ Darwin Eventur - Julio 2012 - 20h
 ## Curso básico de Arduino 1ed
 CEVUG - Octubre 2012 - 70h (virtuales)
 
+* * *
+
 ## 2013
 
 ## Curso programación de Android
@@ -46,21 +48,24 @@ Darwin Eventur - Mayo 2013 - 30h
 ## Monta tu impresora 3D
 Granada Imprusa - Septiembre 2013 -  16h
 
+## Programación cliente-servidor en Javascript (1ed)
+CEVUG - Octubre-dicembre 2013 - 75h (virtuales)
+
 ## Robotización de herramientas Agrícolas
 ADEGUA - Noviembre 2013-Enero 2014 - 250h
 
-* Promación de Arduino
+* Promgación de Arduino
 * Electrónica
-* Programación
 * Proyectos
 
-
-
-## Arduino avanzado
+## Arduino avanzado (1ed)
 CEVUG - Octubre-Dicembre 2013 - 100h (online)
 
 ## Raspberry básico 
 CEVUG - Octubre 2013 - Enero 2014 - 150h
+
+
+* * *
 
 ## 2014
 
@@ -70,8 +75,11 @@ Digital Learning - Enero 2014  (online)
 ## Curso intensivo de programación en Arduino
 CREATEC3D - Marzo 2014 - 4h
 
-## Curso básico de Arduino 3ed
+## Curso básico de Arduino (3ed)
 CEVUG - Marzo-Mayo 2014 - 70h (virtuales)
+
+## Programación cliente-servidor en Javascript (3ed)
+CEVUG - Junio 2014 - 75h (virtuales)
 
 ## Robótica Educativa I
 CEPJaén - 
@@ -91,13 +99,15 @@ Fundacion IFES - Julio 2014 - 60 h
 ## Arduino Práctico
 Universidad de Granada -  Julio 2014 - 20h
 
+## Programación cliente-servidor en Javascript (3ed)
+CEVUG - Octubre-diciembre 2014 - 75h (virtuales)
 
 ## Robotica Educativa II 
 CEP de Jaén - Diciembre 2014 - 32h
 
 * Introducción a la robótica
 * Robots móviles (printbot)
-* Brazo robótico
+* Brazo robótico 
 
 ## Programación en Android
 CEP Jaén - Diciembre 2014 - 30h
@@ -106,6 +116,9 @@ CEP Jaén - Diciembre 2014 - 30h
 * Entorno de programación: Android Studio
 * Controles visuales
 * Desarrollo de una Aplicacíón: Calculadora
+
+
+* * *
 
 ## 2015
 
@@ -120,7 +133,7 @@ CEP de Granada - Enero-Febrero 2015 - 20h
 ## Introducción a Arduino
 Createc3D - Marzo 2015 - 4h
 
-## Curso básico de Arduino 4ed
+## Curso básico de Arduino (4ed)
 CEVUG - Marzo-Mayo 2015 - 70h (virtuales)
 
 ## Proyectos de Robotica Educativa  III
@@ -133,5 +146,11 @@ CEP de Granada - Abril 2015 - 20h
 	* Robot móvil
 	* Globo meteorológico
 
+## Robótica Educativa I
+CEP de Linares - Abril-Mayo 2015 - 30h
 
+* Introducción a arduino
+* Bitbloq
+* Programación con el entorno de Arduino
+* Librerías
 
