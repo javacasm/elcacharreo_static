@@ -14,11 +14,13 @@ comments: []
 
 # Robótica e Inteligencia Artificial
 
-Se trata de un curso de introducción a la robótica, exponiendo los conceptos de robótica e inteligencia artificial, aplicándolo al diseño de robots controlados por Arduino
+Se trata de un curso de introducción a la robótica, exponiendo los conceptos de robótica e inteligencia artificial, aplicándolo al diseño de robots controlados por Arduino.
+
+Está estructurado para 60 horas y se impartió para la fundación IFES en Julio de 2014
 
 * Conceptos generales de la inteligencia artificial.
 * Nociones de prolog (programación lógica).
-* Sistemas expertos.
+* Sistemas expertos. http://www.slideshare.net/javacasm/3-inteligencia-artificial-ramas
 * Agentes inteligentes
 * Robótica.
 * El proyecto ALICE.

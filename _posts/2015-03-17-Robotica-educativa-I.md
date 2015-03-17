@@ -9,11 +9,7 @@ Como muestra una de las [presentaciones utilizadas](http://www.slideshare.net/ja
 
 ## Introducción
 
-Arduino es una plataforma de hardware libre que, por sus características y bajo precio, se ha convertido en una
-plataforma de desarrollo para todo tipo de mecanismos controlados desde el ordenador: robots, sensores y
-plataforma de domótica. Su éxito se basa en el hecho de que, al ser libre, está disponible desde muchísimos
-vendedores y además es relativamente fácil de programar, por lo que podemos encontrarla tanto en sistemas
-profesionales e industriales como en instalaciones artísticas.
+Arduino es una plataforma de hardware libre que, por sus características y bajo precio, se ha convertido en una plataforma de desarrollo para todo tipo de mecanismos controlados desde el ordenador: robots, sensores y plataforma de domótica. Su éxito se basa en el hecho de que, al ser libre, está disponible desde muchísimos vendedores y además es relativamente fácil de programar, por lo que podemos encontrarla tanto en sistemas profesionales e industriales como en instalaciones artísticas.
 
 ## Objetivos 
 

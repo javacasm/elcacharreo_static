@@ -122,7 +122,7 @@ CEP Jaén - Diciembre 2014 - 30h
 
 ## 2015
 
-## Robótica Educativa I
+## Proyectos de Robótica educativa con Arduino y 3D
 CEP de Granada - Enero-Febrero 2015 - 20h
 
 * Introducción a arduino
