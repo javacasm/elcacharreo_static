@@ -17,7 +17,7 @@ comments: []
 ## 2012
 
 ## Taller sobre Arduino
-Universidad de Jaen - Marzo 2012 - 15h
+Universidad de Jaen - Marzo 2012 - 4h
 
 ## Curso de programación de Arduino
 Darwin Eventur - Julio 2012 - 20h
