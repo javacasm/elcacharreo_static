@@ -1,4 +1,24 @@
-Impresión 3D
+--- 
+layout: page
+status: publish
+published: true
+title: Cursos
+author: javacasm
+author_login: javacasm
+author_email: javacasm@elcacharreo.com
+wordpress_id: 1088
+permalink: /cursos/raspberry
+categories: []
+
+tags: []
+
+comments: []
+
+---
+
+# Curso de operador de impresión 3D
+
+
 
 1. Introducción a la impresión 3D
 	1.1 Historia y evolución

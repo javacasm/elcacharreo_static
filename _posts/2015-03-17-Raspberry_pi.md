@@ -20,7 +20,7 @@ comments: []
 
 Curso de introducción al uso y programación de Raspberry
 
-Se trata de un curso de 150 horas (6 ECTS) del que ya se han realizado ya 2 ediciones junto con la <a href=\"http://osl.ugr.es\">Oficina de Software Libre</a> de la \xC2\xA0y el <a href=\"http://cevug.ugr.es\">Centro de Ense\xC3\xB1anzas Virtuales de la Universidad de Granada</a>
+Se trata de un curso de 150 horas (6 ECTS) del que ya se han realizado ya 2 ediciones junto con la [Oficina de Software Libre](http://osl.ugr.es) y el [Centro de Enseñanzas Virtuales](http://cevug.ugr.es) de la Universidad de Granada
 
 Raspberry Pi se ha convertido, junto con Arduino, en uno de los máximos exponentes del desarrollo casero y profesional basado en herramientas libres, pudiendo ser una plataforma hardware de desarrollo, un pequeño ordenador personal sobre el que programar, navegar o editar un documento de texto, un reproductor de música, películas o imágenes, o la base sobre la que construir un sistema de almacenamiento en red para compartir archivos entre los equipos que tengamos en nuestra red.
 

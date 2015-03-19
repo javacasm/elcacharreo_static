@@ -61,7 +61,7 @@ ADEGUA - Noviembre 2013-Enero 2014 - 250h
 ## Arduino avanzado (1ed)
 CEVUG - Octubre-Dicembre 2013 - 100h (online)
 
-## Raspberry básico 
+## Raspberry básico (1ed)
 CEVUG - Octubre 2013 - Enero 2014 - 150h
 
 
@@ -82,7 +82,7 @@ CEVUG - Marzo-Mayo 2014 - 70h (virtuales)
 CEVUG - Junio 2014 - 75h (virtuales)
 
 ## Robótica Educativa I
-CEPJaén - 
+CEPJaén - Abril 2014 - 30 h
 
 ## Inteligencia Artificial y Robótica
 Fundacion IFES - Julio 2014 - 60 h
@@ -117,6 +117,8 @@ CEP Jaén - Diciembre 2014 - 30h
 * Controles visuales
 * Desarrollo de una Aplicacíón: Calculadora
 
+## Raspberry (2ed)
+CEVUG - Octubre 2013 - Enero 2014 - 150h
 
 * * *
 
