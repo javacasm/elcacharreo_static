@@ -17,6 +17,8 @@ published: false
 ![inside Tesla battery](http://files.wizkid057.com/teslapack/2014-08-19%2019.13.08.jpg)
 
 
+[Información sobre baterias](http://spainlabs.com/foro/viewtopic.php?f=8&t=471&p=9585&hilit=18650#p9585)
+
 ## Proyecto práctico
 
 [Cargador TP4056](http://lygte-info.dk/review/Review%20Charger%20TP4056%20UK.html)
