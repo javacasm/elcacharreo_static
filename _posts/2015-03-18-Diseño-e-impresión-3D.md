@@ -51,3 +51,5 @@ La segunda parte versará sobre el manejo de impresoras 3D (último día):
 - Partes de una impresora 3D
 - Funcionamiento de una Impresora 3D
 - Software de Impresión 3D: Cura, configuración y tratamiento de piezas para su impresión.
+
+[¿qué software usar?](http://www.thingiverse.com/thing:232578)
