@@ -15,3 +15,8 @@ published: false
 [Lots images from inside batteries](http://www.teslamotorsclub.com/showthread.php/34934-Pics-Info-Inside-the-battery-pack)
 [batteries cost](http://www.greencarreports.com/news/1084682_what-goes-into-a-tesla-model-s-battery--and-what-it-may-cost)
 ![inside Tesla battery](http://files.wizkid057.com/teslapack/2014-08-19%2019.13.08.jpg)
+
+
+## Proyecto práctico
+
+[Cargador TP4056](http://lygte-info.dk/review/Review%20Charger%20TP4056%20UK.html)
