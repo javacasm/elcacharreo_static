@@ -1,6 +1,10 @@
 Semáforo de sonido
 
 
+Semáforo de 4 niveles
+[código](https://github.com/tolbier/semaforo_ruido/tree/master/src/semaforo_ruido)
+[teoría](http://www.korama.es/blog/semaforo-de-ruido-open-source/)
+
 http://www.instructables.com/id/Clap-Off-Bra/?ALLSTEPS
 
 /*
