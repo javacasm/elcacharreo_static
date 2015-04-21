@@ -1,5 +1,5 @@
 ---
-title: Escuchando/leyendo mientras caminas/corres/viajas
+title: Plantilla
 layout: post
 published: false
 ---
