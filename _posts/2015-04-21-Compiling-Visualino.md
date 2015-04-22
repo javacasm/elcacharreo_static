@@ -4,6 +4,8 @@ layout: post
 published: false
 ---
 
+Vamos a empezar compilando roboblock
+
 ## roboblock
 
 ### Ejecutando roboblock
@@ -28,3 +30,10 @@ Ahora hacemos la parte de instalación para el usuario
 	bower install
 
 (En mi caso había creado el fichero ~/.config/configstore como root y he tenido que cambiar el propietario)
+
+## Visualino
+
+	qmake
+	make
+
+Necesitamos tener instalado el entorno de compilación de qt5.x
