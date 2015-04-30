@@ -25,7 +25,7 @@ Algo que sí que me gustaría es que los conectores USB estuvieran alimentados e
 Al comentar este tema con Javier de Staticboards, me comentó que el hacerlo así es para que se puedan apagar los dispositivos conectados a USB. Ciertamente ambas opciones para alimentar el USB tienen sentido. Yo pensé que el USB estaba alimentado siempre desde el principio y por eso me extrañó porque además ya me había pensado conectar un arduino vía wifi y que se podía encender desde el móvil y que él se encargaría de arrancar todo, pero realmente es igual de fácil el alimentarlo desde el conector 5vSBY. Aunque no he medido los consumos, imagino que no habŕa problema para proporcionar los 200mA que necesita un arduino para funcionar. He buscado por ahí la intensidad que suele entregar el pin 5vSBY y parece que da hasta 400mA
 
 
-He preparado un video con la revisión de la placa https://youtu.be/8pY5zXjVptw
+He preparado un video con la revisión de la placa https://youtu.be/8pY5zXjVptw	
 
 
 Si os interesa podéis pedir una placa en [preorder](http://www.staticboards.es/preorder/atxboard/).
