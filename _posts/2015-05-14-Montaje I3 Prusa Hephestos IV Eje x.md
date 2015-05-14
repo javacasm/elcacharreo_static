@@ -64,7 +64,7 @@ Ahora añadiremos el motor del eje
 
 FOTO PRESENTACION MOTOR 
 
-Es importante ver que el conectar debe quedar hacía el interior del eje X, o lo que es lo mismo, la etiqueta debe quedar hacia arriba según la foto
+Es importante ver que el conectar debe quedar hacía el interior del eje X, o lo que es lo mismo, el conector debe quedar hacia arriba según la foto
 
 FOTO PRESENTACION MOTOR CON ETIQUETA
 
