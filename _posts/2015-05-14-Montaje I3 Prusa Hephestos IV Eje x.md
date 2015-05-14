@@ -42,6 +42,14 @@ FOTO VARILLAS RODAMIENTOS
 
 Notaremos que al principio cuesta mover los rodamientos, pero una vez que los movemos varias veces veremos como deslizan fácilmente.
 
+Montamos la pieza de plastico que nos va permitir sujetar el fin de carrera del eje X
+
+Piezas
+FOTO PIEZAS Fin de carrera
+
+Que se monta de la siguiente forma
+FOTO Montaje
+
 A la varilla que tiene 1 sólo rodamiento le añadiremos fin de carrera
 
 FOTO Fin de carrera
@@ -54,12 +62,28 @@ Si notamos que las varillas no entran fácilmente mejor limar los agujeros antes
 
 Ahora añadiremos el motor del eje
 
-FOTO 
+FOTO PRESENTACION MOTOR 
 
-Montamos la pieza de plastico que nos va permitir sujetar el fin de carrera del eje X
+Es importante ver que el conectar debe quedar hacía el interior del eje X, o lo que es lo mismo, la etiqueta debe quedar hacia arriba según la foto
 
-Piezas
-FOTO PIEZAS Fin de carrera
+FOTO PRESENTACION MOTOR CON ETIQUETA
 
-Que se monta de la siguiente forma
-FOTO Montaje
+Al apretar los 4 tornillos es conveniente irlos aprentando todos poco a poco, para facilitar que la pieza de plástico se acomode.
+
+FOTO MOTOR MONTADO
+
+Añadimos el tornillo que nos va a permitir ajustar la altura del eje Z
+
+FOTO TORNILLO AJUSTE EJE Z
+
+Lo dejaramos fijado pero más adelante ajustaremos su posición
+
+FOTO TORNILLO PUESTO
+
+Por último vamos a añadir la polea, para lo que sólo tendremos que ajustar el rebaje del motor con el tornillo de la polea
+
+FOTO POLEA CERCA
+
+Y con esto terminamos el eje X
+
+FOTO EJE X Terminao
