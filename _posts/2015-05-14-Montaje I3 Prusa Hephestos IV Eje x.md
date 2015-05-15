@@ -3,52 +3,51 @@ title: Montaje I3 Prusa Hephestos: IV Eje X
 layout: post
 published: false
 ---
+En este post vamos a detallar cómo montar el eje X, [continuando con el montaje](http://blog.elcacharreo.com/tag/hephestos/) de una impresora Prusa i3 [Hephestos de Bq](http://bq.com/es/prusa)
 
-Vamos a montar el eje X
-
-FOTO CAJA
+![caja](https://lh4.googleusercontent.com/-rdVyzwV4zpo/VVWUwvCw-AI/AAAAAAAA6_4/5A0sgjSBaqk/w628-h471-no/IMG_20150514_224305.jpg)
 
 En primer lugar insertamos los 4 rodamientos lineales en las piezas esenciales del eje X, dos de ellos en cada una de las piezas. 
 
-FOTO PIEZAS
+![piezas](https://lh6.googleusercontent.com/-ash_NAf8A9w/VVU88Ez1AkI/AAAAAAAA61U/28kYLMd_2kY/w628-h471-no/IMG_20150514_224433.jpg)
 
 Para ello introducimos primero uno de los rodamientos por el lado que está abierto. 
 
-FOTO RODAMIENTO INSERTADO
+![rodamientos](https://lh4.googleusercontent.com/-uqvnBuH0_kE/VVU8-jhjaGI/AAAAAAAA61g/g2KAT_Q8CI0/w628-h471-no/IMG_20150514_224730.jpg)
 
 En el otro extremo que está cerrado tenemos que hacer más presión o ayudándonos de un destornillador abrirlo levemente para facilitar la tarea.
 
-FOTO LADO ABIERTO
+![ladoabierto](https://lh6.googleusercontent.com/-epIqL449uVs/VVU9DEI4J9I/AAAAAAAA614/Rd4kiBQO0uw/w628-h471-no/IMG_20150514_230225.jpg)
 
 Montamos ahora el tensor de la correa del eje X, donde he tenido que quitar una pequeña **rebaba**, para ajustar el tornillo, quizás debida al soldador
 
-FOTO Piezas Tensor
+![piezas tensor](https://lh4.googleusercontent.com/-CgRRb-wrTt0/VVU9HcDuTBI/AAAAAAAA7BU/eBT-4ym2PCo/w628-h471-no/IMG_20150514_231106.jpg)
 
 Que quedará así:
 
-FOTO Tensor Montado
+![tensor montado](https://lh4.googleusercontent.com/-d_u19VzPyBc/VVU9JaOZo8I/AAAAAAAA62c/VOJSaBBAE4w/w628-h471-no/IMG_20150514_231627.jpg)
 
 Ahora insertamos el tensor en la pieza correspondiente
 
-FOTO PIEZAS TENSOR + SOPORTE EJE X
+![piezas tensor](https://lh6.googleusercontent.com/-uFEja3rOTCI/VVU9NqLDJuI/AAAAAAAA620/Z3nXGdcHNW4/w628-h471-no/IMG_20150514_231854.jpg)
 
 Vemos como se puede variar la distancia entre las piezas y por tanto la tensión a la que someteremos a la correa
 
-FOTO DEL TENSOR DESTENSADO
+![tensor destensado](https://lh4.googleusercontent.com/-LLmLejLKOKs/VVU9QNGGvsI/AAAAAAAA63A/cv-xd8L01R4/w628-h471-no/IMG_20150514_232207.jpg)
 
 Ahora montamos los 3 rodamientos lineales que nos quedan en las dos **varillas**
 
-FOTO VARILLAS RODAMIENTOS
+![tensor destensado](https://lh6.googleusercontent.com/-N363hpEAJbw/VVU9SESOGBI/AAAAAAAA63M/VT6YTvaLOsM/w628-h471-no/IMG_20150514_232220.jpg)
 
 Notaremos que al principio cuesta mover los rodamientos, pero una vez que los movemos varias veces veremos como deslizan fácilmente.
 
 Montamos la pieza de plastico que nos va permitir sujetar el fin de carrera del eje X
 
-Piezas
-FOTO PIEZAS Fin de carrera
+![piezas fin de carrera](https://lh4.googleusercontent.com/-s8s_hQ4S6Dw/VVU9Ay29XuI/AAAAAAAA61s/jUF4lx6vQi4/w628-h471-no/IMG_20150514_224749.jpg)
 
 Que se monta de la siguiente forma
-FOTO Montaje
+
+![fin de carrera montado](https://lh4.googleusercontent.com/-N1XB21WwP-c/VVU9FAqVV1I/AAAAAAAA62E/IeISxDj5fx4/w628-h471-no/IMG_20150514_230458.jpg)
 
 A la varilla que tiene 1 sólo rodamiento le añadiremos fin de carrera
 
