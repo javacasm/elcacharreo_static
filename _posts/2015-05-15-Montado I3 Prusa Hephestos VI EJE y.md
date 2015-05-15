@@ -39,3 +39,55 @@ FOTO TRASERO MONTADO
 Por último añadimos la polea al motor
 
 FOTO MOTOR CON POLEA
+
+Vamos a empezar ahora con las varillas roscadas. Para ello tenemos que usar 8 tuercas M10 y 4 arandelas, como se ve en la imagen
+
+FOTO VARILLAS
+
+Puedes usar un taladro atornillador para facilitar la tareas
+
+FOTO TALADRO
+
+Dejaremos las tuercas centrales aproximadamente a 16cm de un extremo y las exteriores cerca de cada extremo. Por esto podemos insertar 3 de las tuercas y las 2 arandelas por el extremo más cercano
+
+FOTO ARANDELAS EXTGREMO y TALADRO 
+
+Quedará así aproximadamente (luego afinaremos las distancias)
+
+FOTO VARILLAS y REGLA
+
+Ahora vamos a atornillar las 4 varillas, 2 roscadas y las 2 lisas, a la placa frontal. Para eso usaremos 4 tornillos M4x16, 4 arandelas de nylon y las tuercas de ese extremo. 
+
+FOTO TORNILLOS Y VARILLAS
+
+Las varillas lisan van arriba y las roscadas abajo.
+
+Una vez apretados los tornillos, apretaremos las 2 tuercas cercanas al extremo
+
+FOTO VARILLAS ATORNILLADAS
+
+Ahora es el momento de colocar la base de aluminio con los 3 rodamientos lineales 
+
+Empezaremos fijando los rodamientos a la base con 3 bridas
+FOTO RODAMIENTOS
+
+FOTO RODAMIENTOS FIJADOS
+
+Colocamos la base de aluminioen las varillas
+
+FOTO BASE
+
+Ahora atornillaremos pieza de atras con el motor. Usaremos 4 tornillos M4x16, las tuercas y las 4 arandelas de nylon
+
+FOTO PIEZAS
+
+Quedando así:
+
+FOTO TRASERA MONTADA
+
+Es el momento de colocar la correa. Para ello la haremos pasar por la pieza que engancha en la base y con dos bridas la apretaremos. La dejaremos tirante pero no excesivamente porque la tensaremos con el tornillo del tensor
+
+FOTO CORREA TENSADA
+
+
+
