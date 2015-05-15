@@ -1,6 +1,6 @@
 ---
-title: Plantilla
+title: Montaje I3 Prusa Hephestos VII: Extrusor
 layout: post
 published: false
 ---
-2015-05-15-Montaje-I3-Prusa-Hephestos-VII-Extrusor.md
+
