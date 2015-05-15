@@ -1,5 +1,5 @@
 ---
-title: Montaje I3 Prusa Hephestos: IV Eje X
+title: Montaje I3 Prusa Hephestos IV: Eje X
 layout: post
 published: false
 ---
