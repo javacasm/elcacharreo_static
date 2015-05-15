@@ -4,7 +4,7 @@ layout: post
 published: false
 ---
 
-Vamos a comenzar con el montaje del eje Z de una impresora 3D Prusa i3 [Hephestos de Bq](http://bq.com/es/prusa)
+En este post vamos a detallar cómo montar el eje Z, [continuando con el montaje](http://blog.elcacharreo.com/tag/hephestos/) de nuestra impresora Prusa i3 [Hephestos de Bq](http://bq.com/es/prusa)
 
 FOTO CAJAS 
 
