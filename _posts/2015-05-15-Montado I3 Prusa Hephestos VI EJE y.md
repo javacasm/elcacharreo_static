@@ -16,7 +16,7 @@ FOTO PIEZAS IMPRESAS
 
 Añadimos los tornillos y tuercas correspondientes para montarlos posteriormente
 
-Ahora fijamos el motor a su pieza con 2 tornillos
+Ahora fijamos el motor a su pieza con 2 tornillos, dejaremos el conector hacia dentro.
 
 FOTO MOTOR CON PIEZA
 
@@ -89,5 +89,33 @@ Es el momento de colocar la correa. Para ello la haremos pasar por la pieza que 
 
 FOTO CORREA TENSADA
 
+Ahora fijaremos la pieza que actúa sobre el final de carrera del eje Y
 
+FOTO PIEZA ACTUA FINAL DE CARRERA
 
+Para terminar fijaremos la base de metacrilato sobre la pieza de aluminio. Necesitaremos 4 tornillos M3x25 y 4 muelles
+
+Con la base ya colocada apreciaremos el aumento de tamaño sobre 20x20 de las bases "normales"
+
+Con este paso ya sólo nos queda juntar el marco con el eje Y.
+
+Fijaremos la distancia a 16cm del extremo de atrás
+
+FOTO DISTANCIA
+
+Antes de fijar el marco colocaremos el fin de carrera del eje Y en el marco
+
+FOTO FIN DE CARRERA Y
+
+Unimos el eje Y con el marco y apretamos las tuercas
+
+FOTO UNIDOS EJE X y MARCO
+
+Una vez unidos vemos que se mueve perfectamente
+
+(eso sí, después de desplazar la unión de las bridas para que no choque)
+VIDEO MOVIENDO
+
+Un último ajuste: moveremos la pieza que actúa sobre el final de carrara del eje Y y el tornillo, para que cuando llegue al final de recorrido se active éste.
+
+FOTO FINAL DE CARRERA ACTIVADO
