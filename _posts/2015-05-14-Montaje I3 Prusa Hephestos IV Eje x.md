@@ -17,7 +17,7 @@ Para ello introducimos primero uno de los rodamientos por el lado que está abie
 
 En el otro extremo que está cerrado tenemos que hacer más presión o ayudándonos de un destornillador abrirlo levemente para facilitar la tarea.
 
-![ladoabierto](https://lh6.googleusercontent.com/-epIqL449uVs/VVU9DEI4J9I/AAAAAAAA614/Rd4kiBQO0uw/w628-h471-no/IMG_20150514_230225.jpg)
+![ladoabierto](https://lh4.googleusercontent.com/-s8s_hQ4S6Dw/VVU9Ay29XuI/AAAAAAAA61s/jUF4lx6vQi4/w628-h471-no/IMG_20150514_224749.jpg)
 
 Montamos ahora el tensor de la correa del eje X, donde he tenido que quitar una pequeña **rebaba**, para ajustar el tornillo, quizás debida al soldador
 
@@ -27,23 +27,28 @@ Que quedará así:
 
 ![tensor montado](https://lh4.googleusercontent.com/-d_u19VzPyBc/VVU9JaOZo8I/AAAAAAAA62c/VOJSaBBAE4w/w628-h471-no/IMG_20150514_231627.jpg)
 
-Ahora insertamos el tensor en la pieza correspondiente
+Uniremos ahora el tensor con la pieza del extremo del eje X
 
 ![piezas tensor](https://lh6.googleusercontent.com/-uFEja3rOTCI/VVU9NqLDJuI/AAAAAAAA620/Z3nXGdcHNW4/w628-h471-no/IMG_20150514_231854.jpg)
 
-Vemos como se puede variar la distancia entre las piezas y por tanto la tensión a la que someteremos a la correa
+Ahora insertamos las piezas del tensor en la pieza correspondiente. Para ello usaremos 3 tuercas: 1 quedará en el interior del plastico de la pieza grande, mientras que las otras 2 las pondremos en el extremo bien apretadas la una contra la otra para conseguir que al moverlas se mueva el tornillo completo.
 
 ![tensor destensado](https://lh4.googleusercontent.com/-LLmLejLKOKs/VVU9QNGGvsI/AAAAAAAA63A/cv-xd8L01R4/w628-h471-no/IMG_20150514_232207.jpg)
 
-Ahora montamos los 3 rodamientos lineales que nos quedan en las dos **varillas**
+Vemos como se puede variar la distancia entre las piezas y por tanto la tensión a la que someteremos a la correa. Para ello sólo tenemos que girar las 2 tuercas del extremo.
 
 ![tensor destensado](https://lh6.googleusercontent.com/-N363hpEAJbw/VVU9SESOGBI/AAAAAAAA63M/VT6YTvaLOsM/w628-h471-no/IMG_20150514_232220.jpg)
+
+Ahora montamos los 3 rodamientos lineales que nos quedan en las dos **varillas**
+
 
 Notaremos que al principio cuesta mover los rodamientos, pero una vez que los movemos varias veces veremos como deslizan fácilmente.
 
 Montamos la pieza de plastico que nos va permitir sujetar el fin de carrera del eje X
 
-![piezas fin de carrera](https://lh4.googleusercontent.com/-s8s_hQ4S6Dw/VVU9Ay29XuI/AAAAAAAA61s/jUF4lx6vQi4/w628-h471-no/IMG_20150514_224749.jpg)
+
+![piezas fin de carrera](https://lh6.googleusercontent.com/-epIqL449uVs/VVU9DEI4J9I/AAAAAAAA614/Rd4kiBQO0uw/w628-h471-no/IMG_20150514_230225.jpg)
+
 
 Que se monta de la siguiente forma
 
