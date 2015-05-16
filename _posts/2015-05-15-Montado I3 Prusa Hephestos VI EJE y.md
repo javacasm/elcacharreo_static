@@ -4,21 +4,23 @@ layout: post
 published: false
 ---
 
-En este post vamos a detallar cómo montar el eje y, [continuando con el montaje](http://blog.elcacharreo.com/tag/hephestos/) de una impresora Prusa i3 [Hephestos de Bq](http://bq.com/es/prusa). Usaremos la base larga para conseguir imprimir piezas de hasta 30x20.
+En este post vamos a detallar cómo montar el eje y, [continuando con el montaje](http://blog.elcacharreo.com/tag/hephestos/) de una impresora Prusa i3 [Hephestos de Bq](http://bq.com/es/prusa). Usaremos la base larga para conseguir imprimir piezas de hasta 30 cm x20 cm .
 
-![FOTO COMPONENTES]()
+![FOTO COMPONENTES](https://lh4.googleusercontent.com/-o7eWXB9T-pw/VVfBsWvbFsI/AAAAAAAA7TU/oVsgyQUiAzM/w1014-h761-no/IMG_20150515_143341.jpg)
 
 Seguiré el [detallado tutorial publicado en diwo](http://diwo.bq.com/montaje-de-la-actualizacion-a-base-larga/)
 
 Para utilizar la base larga son necesarias 3 piezas impresas que no vienen incluidas en el kit (se supone que es un kit de ampliación que se instala después de tener una impresora). Personalmente pienso que no les costaba nada incluirlas (supongo que no lo hacen por temas de producción), dado que si no se tiene una impresora habría que montar primero la impresora con la base normal, calibrarla, imprimir las piezas y luego desmontar la base, y montar la base larga. En mi caso como tengo otra impresora las he impreso y además en el mismo tono amarillo del resto de piezas del kit. Las piezas se pueden descargar desde [diwo](http://diwo.bq.com/wp-content/uploads/2015/01/Piezas_impresas_base_larga.zip)
-
-FOTO PIEZAS IMPRESAS
+ 
+![FOTO PIEZAS IMPRESAS](https://lh4.googleusercontent.com/-qhmxi71KbLU/VVfCvpkhmqI/AAAAAAAA7TM/krnsU5lON18/w1014-h761-no/IMG_20150515_143232.jpg)
 
 Añadimos los tornillos y tuercas correspondientes para montarlos posteriormente
 
-Ahora fijamos el motor a su pieza con 2 tornillos, dejaremos el conector hacia dentro.
+![PIEZAS CON TORNILLOS](https://lh4.googleusercontent.com/-7mOp1alAjtc/VVfCvvPFytI/AAAAAAAA7TA/mDerryp-5NY/w1014-h761-no/IMG_20150515_145523.jpg)
 
-FOTO MOTOR CON PIEZA
+Ahora fijamos el motor a su pieza con 2 tornillos, dejaremos el conector hacia dentro (en la imagen no se ve porque cometí un error que luego modifiqué)
+
+![FOTO MOTOR CON PIEZA](https://lh4.googleusercontent.com/-ayLXDB286Ew/VVfCvsxRT2I/AAAAAAAA7TA/Vj-ZiPsqu5s/w1014-h761-no/IMG_20150515_150018.jpg)
 
 Ahora vamos a fijar el tensor a la pieza frontal (la que tiene un único agujero)
 
