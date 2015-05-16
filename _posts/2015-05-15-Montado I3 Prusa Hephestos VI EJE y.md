@@ -103,17 +103,29 @@ Ahora fijaremos la pieza que actúa sobre el final de carrera del eje Y
 
 Para terminar fijaremos la base de metacrilato sobre la pieza de aluminio. Necesitaremos 4 tornillos M3x25 y 4 muelles
 
+![PIEZAS METACRILATO](https://lh6.googleusercontent.com/-wnsU2kEtPrw/VVfCvkUJQaI/AAAAAAAA7Uc/zJw0ZdajcNE/w1014-h761-no/IMG_20150515_184633.jpg)
+
 Con la base ya colocada apreciaremos el aumento de tamaño sobre 20x20 de las bases "normales"
+
+![METACRILATO MONTADO](https://lh6.googleusercontent.com/-djTKea7UAb0/VVfCvp9h3JI/AAAAAAAA7TA/uhrHOT0g45M/w1014-h761-no/IMG_20150515_185148.jpg)
 
 Con este paso ya sólo nos queda juntar el marco con el eje Y.
 
 Fijaremos la distancia a 16cm del extremo de atrás
 
-FOTO DISTANCIA
+![FOTO DISTANCIA](https://lh6.googleusercontent.com/-u5vDF_JC8tM/VVfCvj82ACI/AAAAAAAA7TA/wjVcC8w5UeI/w1014-h761-no/IMG_20150515_185529.jpg)
 
 Antes de fijar el marco colocaremos el fin de carrera del eje Y en el marco
 
-FOTO FIN DE CARRERA Y
+![PIEZAS FIN DE CARRERA Y](https://lh6.googleusercontent.com/-Mqcnwsrxi3g/VVfCvt8i3xI/AAAAAAAA7TA/H_Leh2pUkdU/w1014-h761-no/IMG_20150515_185901.jpg)
+
+La posición donde lo pondremos viene marcada por el orificio en el marco
+
+![POSICION FIN DE CARRERA](https://lh4.googleusercontent.com/-mCGl6w_dUxE/VVfCvhgK5HI/AAAAAAAA7TA/7gbCIIbsYAc/w570-h761-no/IMG_20150515_191044.jpg)
+
+Montado queda de la siguiente manera
+
+![FOTO FIN DE CARRERA Y](https://lh4.googleusercontent.com/-0NqqfX3ONtU/VVfCvhZxJ-I/AAAAAAAA7TA/2azVbnNTMuI/w1014-h761-no/IMG_20150515_190947.jpg)
 
 Unimos el eje Y con el marco y apretamos las tuercas
 
