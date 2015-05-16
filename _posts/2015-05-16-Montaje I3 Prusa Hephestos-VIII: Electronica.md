@@ -32,3 +32,13 @@ Para ello he tenido que agrandar uno de los agujeros
 [LCD desde atrás]
 
 **No me gusta que los cables del LCD tienen una longitud demasiado justa y hay inclinar el LCD para no forzarlos. Además pasan por encima del disipador del MOSFET**
+
+
+
+La electrónica necesita un ventilador, vamos a montarlo. Necesitamos el soporte y dos tornillos
+[PIEZAS]
+
+Una vez fijado ya está listo para colocarlo
+[VENTILADOR MONTADO]
+
+Pero antes hay que reorganizar los cables, el ventilador será lo último que conectemos.
