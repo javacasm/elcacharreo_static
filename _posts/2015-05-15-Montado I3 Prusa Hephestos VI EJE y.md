@@ -61,32 +61,33 @@ Quedará así aproximadamente (luego afinaremos las distancias)
 
 Ahora vamos a atornillar las 4 varillas, 2 roscadas y las 2 lisas, a la placa frontal. Para eso usaremos 4 tornillos M4x16, 4 arandelas de nylon y las tuercas de ese extremo. 
 
-FOTO TORNILLOS Y VARILLAS
+![FOTO TORNILLOS Y VARILLAS](https://lh4.googleusercontent.com/-7B7ZJKyN_ZA/VVfCvhblTDI/AAAAAAAA7Tk/L1N6E4dYYOY/w1014-h761-no/IMG_20150515_175405.jpg)
 
 Las varillas lisan van arriba y las roscadas abajo.
 
 Una vez apretados los tornillos, apretaremos las 2 tuercas cercanas al extremo
 
-FOTO VARILLAS ATORNILLADAS
+![FOTO VARILLAS ATORNILLADAS](https://lh6.googleusercontent.com/-o4texFY0V_c/VVfCvuk502I/AAAAAAAA7TA/SjBnl26clRE/w1014-h761-no/IMG_20150515_175733.jpg)
 
 Ahora es el momento de colocar la base de aluminio con los 3 rodamientos lineales 
 
+![FOTO RODAMIENTOS](https://lh6.googleusercontent.com/-juo0eCpO6Q4/VVfCvo1QoLI/AAAAAAAA7Ts/wEZlPig1XQk/w1014-h761-no/IMG_20150515_175821.jpg)
+
 Empezaremos fijando los rodamientos a la base con 3 bridas
-FOTO RODAMIENTOS
 
-FOTO RODAMIENTOS FIJADOS
+![FOTO RODAMIENTOS FIJADOS](https://lh6.googleusercontent.com/-g2Wxf26b77g/VVfCvn7rGGI/AAAAAAAA7T0/F_u1ch1oiNk/w1014-h761-no/IMG_20150515_180101.jpg)
 
-Colocamos la base de aluminioen las varillas
+Colocamos la base de aluminio en las varillas
 
-FOTO BASE
+![FOTO BASE](https://lh4.googleusercontent.com/-lKdXeejVVu8/VVfCvsS4EKI/AAAAAAAA7TA/KJZ_EdxgUJQ/w1014-h761-no/IMG_20150515_180212.jpg)
 
 Ahora atornillaremos pieza de atras con el motor. Usaremos 4 tornillos M4x16, las tuercas y las 4 arandelas de nylon
 
-FOTO PIEZAS
+![FOTO PIEZAS](https://lh4.googleusercontent.com/-Muc1W912qaQ/VVfCvnircNI/AAAAAAAA7T8/aeEV6irnnLg/w1014-h761-no/IMG_20150515_180706.jpg)
 
 Quedando así:
 
-FOTO TRASERA MONTADA
+![FOTO TRASERA MONTADA](https://lh4.googleusercontent.com/-H6uV01r93ME/VVfCvu_P7wI/AAAAAAAA7UE/Y3eCYqXjXxU/w1014-h761-no/IMG_20150515_180955.jpg)
 
 Es el momento de colocar la correa. Para ello la haremos pasar por la pieza que engancha en la base y con dos bridas la apretaremos. La dejaremos tirante pero no excesivamente porque la tensaremos con el tornillo del tensor
 
