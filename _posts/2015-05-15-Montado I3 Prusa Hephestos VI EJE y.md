@@ -20,43 +20,44 @@ Añadimos los tornillos y tuercas correspondientes para montarlos posteriormente
 
 Ahora fijamos el motor a su pieza con 2 tornillos, dejaremos el conector hacia dentro (en la imagen no se ve porque cometí un error que luego modifiqué)
 
-![FOTO MOTOR CON PIEZA](https://lh4.googleusercontent.com/-ayLXDB286Ew/VVfCvsxRT2I/AAAAAAAA7TA/Vj-ZiPsqu5s/w1014-h761-no/IMG_20150515_150018.jpg)
+![MOTOR CON PIEZA](https://lh4.googleusercontent.com/-ayLXDB286Ew/VVfCvsxRT2I/AAAAAAAA7TA/Vj-ZiPsqu5s/w1014-h761-no/IMG_20150515_150018.jpg)
 
 Ahora vamos a fijar el tensor a la pieza frontal (la que tiene un único agujero)
 
-FOTO PIEZA FRONTAL
+![PIEZA FRONTAL](https://lh4.googleusercontent.com/-Y19UhMkGcq0/VVfCvjz_JSI/AAAAAAAA7TA/nQzoyiw9Rvk/w1014-h761-no/IMG_20150515_150147.jpg)
 
 No es necesario apretarlo a fondo, puesto que lo tensaremos cuando todo esté listo
 
-FOTO FRONTAL FIJADO
+![FRONTAL FIJADO](https://lh6.googleusercontent.com/-26aimPKm4Is/VVfCvgmj_YI/AAAAAAAA7TA/NMqok5L3BMA/w1014-h761-no/IMG_20150515_150302.jpg)
 
-Ahora fijaremos el motor a la pieza de atrás con 2 tornillos (no hacen falta tuercas porque la pieza metálica tiene rosca en los 3 agujeros)
+Ahora fijaremos el motor a la pieza de atrás con (2 tornillos (no hacen falta tuercas porque la pieza metálica tiene rosca en los 3 agujeros)
 
-PIEZAS TRASERO
+![PIEZAS TRASERO](https://lh4.googleusercontent.com/-_GvixheGY5w/VVfCvkjhNVI/AAAAAAAA7TA/Yk6-aZZLNM0/w1014-h761-no/IMG_20150515_150359.jpg)
 
 En mi caso he tenido que limar un poco la pieza impresa para que ajuste (en esta foto se puede ver que el motor no está fijado a la pieza porque todavía no sabía la posición del motor para luego sacar el cable más fácilmente)
 
-FOTO TRASERO MONTADO
+![TRASERO MONTADO](https://lh4.googleusercontent.com/-xiWzbz1mZmk/VVfCvtjwaoI/AAAAAAAA7TA/QZLGIy944eU/w1014-h761-no/IMG_20150515_150912.jpg)
 
 Por último añadimos la polea al motor
 
-FOTO MOTOR CON POLEA
+![FOTO MOTOR CON POLEA](https://lh4.googleusercontent.com/-bozIPhWnwEw/VVfCvhMw4uI/AAAAAAAA7TA/H4_KYGKWVdw/w1014-h761-no/IMG_20150515_151008.jpg)
 
 Vamos a empezar ahora con las varillas roscadas. Para ello tenemos que usar 8 tuercas M10 y 4 arandelas, como se ve en la imagen
 
-FOTO VARILLAS
+![FOTO VARILLAS](https://lh4.googleusercontent.com/-boNw9aoT1Rw/VVfBsaaSqyI/AAAAAAAA7SY/qPbwcAizwhY/w1014-h761-no/IMG_20150515_172731.jpg)
 
 Puedes usar un taladro atornillador para facilitar la tareas
 
-FOTO TALADRO
+![FOTO ARANDELAS EXTGREMO y TALADRO](https://lh6.googleusercontent.com/-P1tDtmbGD1s/VVfCvoHT8xI/AAAAAAAA7TA/8CWXwmjzsqo/w1014-h761-no/IMG_20150515_172829.jpg)
+
 
 Dejaremos las tuercas centrales aproximadamente a 16cm de un extremo y las exteriores cerca de cada extremo. Por esto podemos insertar 3 de las tuercas y las 2 arandelas por el extremo más cercano
 
-FOTO ARANDELAS EXTGREMO y TALADRO 
+![FOTO TALADRO](https://lh6.googleusercontent.com/-YOwZxS8Xorc/VVfBsaFV1cI/AAAAAAAA7SY/C3Lg7il9ocE/w1014-h761-no/IMG_20150515_173338.jpg)
 
 Quedará así aproximadamente (luego afinaremos las distancias)
 
-FOTO VARILLAS y REGLA
+![FOTO VARILLAS y REGLA](https://lh4.googleusercontent.com/-BWXzNU-ZpyI/VVfCvtIxpZI/AAAAAAAA7TA/veluAnLDNZc/w1014-h761-no/IMG_20150515_173611.jpg)
 
 Ahora vamos a atornillar las 4 varillas, 2 roscadas y las 2 lisas, a la placa frontal. Para eso usaremos 4 tornillos M4x16, 4 arandelas de nylon y las tuercas de ese extremo. 
 
