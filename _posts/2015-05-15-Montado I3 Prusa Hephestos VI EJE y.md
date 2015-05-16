@@ -89,13 +89,17 @@ Quedando así:
 
 ![FOTO TRASERA MONTADA](https://lh4.googleusercontent.com/-H6uV01r93ME/VVfCvu_P7wI/AAAAAAAA7UE/Y3eCYqXjXxU/w1014-h761-no/IMG_20150515_180955.jpg)
 
-Es el momento de colocar la correa. Para ello la haremos pasar por la pieza que engancha en la base y con dos bridas la apretaremos. La dejaremos tirante pero no excesivamente porque la tensaremos con el tornillo del tensor
+Es el momento de colocar la correa. 
 
-FOTO CORREA TENSADA
+![PIEZAS CORREA Y](https://lh4.googleusercontent.com/-3CPucwf8lGs/VVfCviBT6iI/AAAAAAAA7UM/tRpbgsyiHMI/w1014-h761-no/IMG_20150515_181514.jpg)
+
+Para ello la haremos pasar por la pieza que engancha en la base y con dos bridas la apretaremos. La dejaremos tirante pero no excesivamente porque la tensaremos con el tornillo del tensor
+
+![FOTO CORREA TENSADA](https://lh6.googleusercontent.com/-t58WgG3Kn0c/VVfCvoxXb3I/AAAAAAAA7TA/rVTkuJIBpxo/w1014-h761-no/IMG_20150515_182805.jpg)
 
 Ahora fijaremos la pieza que actúa sobre el final de carrera del eje Y
 
-FOTO PIEZA ACTUA FINAL DE CARRERA
+![FOTO PIEZA ACTUA FINAL DE CARRERA](https://lh4.googleusercontent.com/-t7ODaq7BK1s/VVfCvgVlb4I/AAAAAAAA7TA/cXdZKHXIwg0/w1014-h761-no/IMG_20150515_183920.jpg)
 
 Para terminar fijaremos la base de metacrilato sobre la pieza de aluminio. Necesitaremos 4 tornillos M3x25 y 4 muelles
 
