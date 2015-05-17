@@ -4,7 +4,7 @@ layout: post
 published: false
 ---
 
-En este post vamos a detallar cómo montar el eje y, [continuando con el montaje](http://blog.elcacharreo.com/tag/hephestos/) de una impresora Prusa i3 [Hephestos de Bq](http://bq.com/es/prusa). Usaremos la base larga para conseguir imprimir piezas de hasta 30 cm x20 cm .
+En este post vamos a detallar cómo montar el eje y, [continuando con el montaje](http://blog.elcacharreo.com/tag/hephestos/) de una impresora Prusa i3 [Hephestos de Bq](http://bq.com/es/prusa). Usaremos la base larga para conseguir imprimir piezas de hasta 30 cm x 20 cm .
 
 ![FOTO COMPONENTES](https://lh4.googleusercontent.com/-o7eWXB9T-pw/VVfBsWvbFsI/AAAAAAAA7TU/oVsgyQUiAzM/w1014-h761-no/IMG_20150515_143341.jpg)
 
@@ -121,21 +121,24 @@ Antes de fijar el marco colocaremos el fin de carrera del eje Y en el marco
 
 La posición donde lo pondremos viene marcada por el orificio en el marco
 
-![POSICION FIN DE CARRERA](https://lh4.googleusercontent.com/-mCGl6w_dUxE/VVfCvhgK5HI/AAAAAAAA7TA/7gbCIIbsYAc/w570-h761-no/IMG_20150515_191044.jpg)
-
 Montado queda de la siguiente manera
 
 ![FOTO FIN DE CARRERA Y](https://lh4.googleusercontent.com/-0NqqfX3ONtU/VVfCvhZxJ-I/AAAAAAAA7TA/2azVbnNTMuI/w1014-h761-no/IMG_20150515_190947.jpg)
 
 Unimos el eje Y con el marco y apretamos las tuercas
 
-FOTO UNIDOS EJE X y MARCO
+![POSICION FIN DE CARRERA](https://lh4.googleusercontent.com/-mCGl6w_dUxE/VVfCvhgK5HI/AAAAAAAA7TA/7gbCIIbsYAc/w570-h761-no/IMG_20150515_191044.jpg)
 
 Una vez unidos vemos que se mueve perfectamente
 
 (eso sí, después de desplazar la unión de las bridas para que no choque)
+
 VIDEO MOVIENDO
 
 Un último ajuste: moveremos la pieza que actúa sobre el final de carrara del eje Y y el tornillo, para que cuando llegue al final de recorrido se active éste.
 
-FOTO FINAL DE CARRERA ACTIVADO
+![FOTO FINAL DE CARRERA ACTIVADO](https://lh6.googleusercontent.com/-wC08_1mgiWk/VVfCvutWemI/AAAAAAAA7TA/ccl0g4E_GCg/w1014-h761-no/IMG_20150515_191906.jpg)
+
+¡¡¡ Terminado el montaje de la mecánica!!! El siguiente paso el extrusor y la electrónica
+
+JAVACASM
