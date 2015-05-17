@@ -5,19 +5,27 @@ published: false
 ---
 
 
-En este post vamos a ver cómo montar el extrusor, [continuando con el montaje](http://blog.elcacharreo.com/tag/hephestos/) de una impresora Prusa i3 [Hephestos de Bq](http://bq.com/es/prusa). 
+En este post vamos a ver cómo montar el extrusor (mecánicamente, ya lo pondremos a funcionar cuando tengamos lista la electrónica), [continuando con el montaje](http://blog.elcacharreo.com/tag/hephestos/) de una impresora Prusa i3 [Hephestos de Bq](http://bq.com/es/prusa). 
 
-Empezaremos preparando el carro para colgar el extrusor. Para ello uniremos las piezas donde se va fijar la correa y donde pondremos los rodamientos lineales
+Empezaremos preparando el carro para colgar el extrusor. Tendremos que fijarlo en los rodamientos y le conectaremos la correa para o que conectaremos dos piezas que la fijarán.
 
-FOTO PIEZAS
+![FOTO PIEZAS](https://lh4.googleusercontent.com/-8iR24oKkisI/VVfCYtrjjtI/AAAAAAAA7bw/sGo2cvrdYq0/w1014-h761-no/IMG_20150515_200737.jpg)
 
 Una vez sujetas las piezas lo tendremos listo para luego unir los extremos de la correa
 
-FOTO PIEZAS UNIDAS
+![FOTO PIEZAS UNIDAS](https://lh6.googleusercontent.com/-8kERMbVA_uA/VVfCYl2eQMI/AAAAAAAA7bo/EHYJs0RJL0o/w1014-h761-no/IMG_20150515_201228.jpg)
 
 Ahora vamos a fijar el carro a los rodamientos. Los dos de arriba se fijan por presión y el de abajo con una brida
 
-FOTO MONTAJE CARRO
+![FOTO MONTAJE CARRO](https://lh6.googleusercontent.com/-UkjyQnh2IIE/VVfCYu_Hh1I/AAAAAAAA7Sw/pP67tawSkz4/w1014-h761-no/IMG_20150515_201509.jpg)
+
+Uniremos la pieza con los rodamientos
+
+![RODAMIENTOS](https://lh4.googleusercontent.com/-YEyF4ieKVCA/VVfCYrlBO7I/AAAAAAAA7Sw/gM6FICYzsQE/w1014-h761-no/IMG_20150516_013432.jpg)
+
+y fijaremos la brida con el rodamiento de abajo
+
+![brida](https://lh4.googleusercontent.com/-dHtcBZyX2fQ/VVfCYhkmGpI/AAAAAAAA7Sw/xU2YVYVSTek/w1014-h761-no/IMG_20150515_201911.jpg)
 
 Vamos a añadir la correa. Necesitaremos unas bridas y la correa. Haremos como en el eje Y, juntar los extremos en el carro y luego tensarla girando el tornillo del tensor
 
