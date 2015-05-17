@@ -51,29 +51,17 @@ El extrusor es compacto y tiene integrados todos los componentes
 
 ![extrusor](https://lh6.googleusercontent.com/-0k8SOSom83c/VVfCYv3WA3I/AAAAAAAA7Sw/cndaBXmFrWI/w1014-h761-no/IMG_20150516_015907.jpg)
 
-Para fijar el extrusor tenemos que quitar la tobera. 
-
-![tobera](https://lh4.googleusercontent.com/-2oMQiqRERQI/VVfCYm886gI/AAAAAAAA7Sw/aG6ACRjE160/w1014-h761-no/IMG_20150516_020626.jpg)
-
-Le vamos a añadir una pieza para añadir seguiridad al extrusor y evitar que nos quememos sin querer
+Para fijar el extrusor tenemos que quitar la tobera y le vamos a añadir una pieza para mejorar la seguridad del extrusor y evitar que nos quememos al acercar los dedos para manipular las piezas.
 
 ![tobera y seguridad](https://lh4.googleusercontent.com/-2oMQiqRERQI/VVfCYm886gI/AAAAAAAA7Sw/aG6ACRjE160/w1014-h761-no/IMG_20150516_020626.jpg)
 
-Colocaremos el extrusor sobre la pletina, con la tobera a un lado y la pieza de protección al otro lado de la lámina metálica del extrusor. En la imagen vemos la lámina donde fijar las piezas:
+Colocaremos el extrusor sobre la pletina y atornillamos.
 
 ![lamina del extrusor](https://lh4.googleusercontent.com/-YIhh3MYZ6wY/VVfCYmLW-rI/AAAAAAAA7Sw/z4BYfCKLI80/w1014-h761-no/IMG_20150516_020512.jpg)
 
-Después de colocarlas las atornillaremos con un tornillo M320
+En la imagen anterior vemos la lámina donde fijar las piezas. Con la tobera a un lado y la pieza de protección al otro lado de la lámina metálica del extrusor las  atornillaremos con un tornillo M320
 
 ![Piezas fijadas](https://lh6.googleusercontent.com/-iIyW6-fYQ6w/VVfCYgXNkpI/AAAAAAAA7Sw/nOYEI9P6Tok/w1014-h761-no/IMG_20150516_021216.jpg)
-
-Insertamos el extrusor en la pletina y atornillamos.
-
-[EXTRUSOR FIJADO]
-
-Ahora vamos a fijar la tobera que hemos quitado y la pieza que actúa como protector para evitar que nos quememos. Usaremos un tornillo distinto, más largo para fijar las 2 piezas de plástico al extrusor.
-
-[TOBERA Y PROTECTOR]
 
 Con este paso damos por terminado el montaje del extrusor. 
 
