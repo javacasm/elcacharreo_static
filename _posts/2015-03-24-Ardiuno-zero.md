@@ -25,3 +25,6 @@ Constántemente estamos viendo nuevos avances y productos en el entorno del open
 
 [Página oficial](http://arduino.cc/en/Main/ArduinoBoardZero)
 [Más info](http://blog.arduino.cc/2014/05/15/meet-arduino-zero/)
+
+
+http://makezine.com/2015/05/17/talking-arduino-zero-atmel/?utm_medium=referral&utm_source=pulsenews
