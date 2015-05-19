@@ -30,3 +30,5 @@ Aprendemos como reprogramar y conectar a un AP
 [Código](https://github.com/esp8266/arduino)
 
 [Tutorial](http://www.leantec.es/tienda/blog/26_Como-conectar-Arduino-a-una-red-WIFi-con-el-m.html)
+
+http://www.rogerclark.net/esp8266-for-arduino-discontinued/
