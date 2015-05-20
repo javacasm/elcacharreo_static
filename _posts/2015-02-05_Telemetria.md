@@ -20,6 +20,7 @@ Comenzaremos viendo las distintas alternativas y sus ventajas e incovenientes
 * RF
 * Nordic 
 * GSM
+
 Veamos una tabla comparativa
 
 Nombre|conexión|coste|alcance|ancho de banda|inconvenientes
