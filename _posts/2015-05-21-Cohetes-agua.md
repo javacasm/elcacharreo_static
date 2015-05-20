@@ -1,6 +1,7 @@
 ---
-title: Plantilla
+title: Cohetes agua
 layout: post
 published: false
 ---
-2015-05-21-Cohetes-agua.md
+
+[Telemetría para cohete de agua](http://www.instructables.com/id/Radio-Telemetry-for-a-Model-Rocket/w)
