@@ -1,6 +1,8 @@
 ---
-title: Plantilla
+title: Micropython en ESP8266
 layout: post
 published: false
 ---
-2015-05-20-Micropython-en-ESP8266.md
+
+https://learn.adafruit.com/building-and-running-micropython-on-the-esp8266
+https://learn.adafruit.com/building-and-running-micropython-on-the-esp8266?view=all
