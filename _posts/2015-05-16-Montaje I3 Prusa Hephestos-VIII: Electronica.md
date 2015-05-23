@@ -31,7 +31,7 @@ Para ello he tenido que agrandar uno de los agujeros
 
 [LCD desde atrás]
 
-**No me gusta que los cables del LCD tienen una longitud demasiado justa y hay inclinar el LCD para no forzarlos. Además pasan por encima del disipador del MOSFET**
+
 
 
 Vamos a introducir todos los cables que llegan hasta el extrusor en la cadeneta: cable del motor, alimentación del casquillo calefactor, sensor de temperatura y los 2 ventiladores.
@@ -75,3 +75,43 @@ Pero antes hay que reorganizar los cables, el ventilador será lo último que co
 Conectamos los cables del extrusor. Los distintos tipos de conectores hacen que sea prácticamente imposible equivocarse. Sí que creo que los cables son excesivamente cortos, si fueran un poco más largos podríamos dejar todos los conectores en la parte de arriba (como se ve en la documentación por cierto) dejando más limpio el montaje. En el futuro cuando tenga que desmontar el extrusor no descarto girarlo para poder sacar los cables por atrás y así dejarlo más compacto
 
 [Cables]
+
+Guiamos los cables para que se queden lo más organizado posible, sujetándolos con bridas.
+
+[Cables con bridas]
+
+Ahora es tiempo de ir conectando los cables.
+
+[ESQUEMA CONEXIONADO]
+
+Empezamos con los cables de la capsula calefactora y de los ventiladores que hay que atornillar
+
+Capsula calefactora
+
+[FOTO]
+
+Ahora conectaremos el ventilador de capa (blower) qu eson los cables rojo y negro con una línea blanca
+
+[FOTO]
+
+Conectamos la alimentación, el ventilador del extrusor y el ventilador de la electrónica a la regleta de alimentación, con cuidao de no equivocarnos de la polaridad. (en la foto no se ve conectado el ventilador de la electrónica)
+
+[FOTO]
+
+Conectamos los motores cada uno en su lugar.
+
+[FOTO]
+
+Es el turno de los finales de carrera
+
+[FOTO]
+
+De momento vamos a dejar los cables sin ajustar más hasta que pruebe que todo funciona ok.
+
+Vamos a colocar el ventilador, necesario para mantener la electrónica a una buena temperatura.
+
+[FOTO ]
+
+Es el momento de probar que todo funciona. Como va a requerir varias prueba vamos a documentar esas pruebas en otro post.
+
+El ajuste de nos va a permitir que quede todo más límpio. Claramente habría sido más cómodo haber recortado los cables.
