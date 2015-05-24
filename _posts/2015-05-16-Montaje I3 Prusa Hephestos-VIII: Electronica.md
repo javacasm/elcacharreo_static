@@ -16,7 +16,7 @@ Fijaremos los 2 tornillos en los agujeros opuestos sobre la pieza de plástico y
 
 ![RAMPS Y TORNILLOS](https://lh5.googleusercontent.com/-AXEGupkjdd4/VWJLhteAWVI/AAAAAAAA7xk/_HYRy3Gdolg/w602-h803-no/IMG_20150523_202851.jpg)
 
-(en la imagen aprecen algunos cables fijados, es porque la foto es posterior. Iremos paso a paso)
+(en la imagen aparecen algunos cables fijados, es porque la foto es posterior. Iremos paso a paso)
 
 Ahora montaremos la estructura del LCD 
 
