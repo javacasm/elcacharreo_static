@@ -16,7 +16,7 @@ Fijaremos los 2 tornillos en los agujeros opuestos sobre la pieza de plástico y
 
 ![RAMPS Y TORNILLOS](https://lh5.googleusercontent.com/-AXEGupkjdd4/VWJLhteAWVI/AAAAAAAA7xk/_HYRy3Gdolg/w602-h803-no/IMG_20150523_202851.jpg)
 
-(en la foto se ve que hemos fijado ya algunos cables, pero iremos paso a paso)
+(en la imagen aprecen algunos cables fijados, es porque la foto es posterior. Iremos paso a paso)
 
 Ahora montaremos la estructura del LCD 
 
@@ -84,24 +84,24 @@ Conectamos los cables del extrusor. Los distintos tipos de conectores hacen que 
 
 ![Cables](https://lh5.googleusercontent.com/-AXPNqw_AnXg/VWJLhqdvmWI/AAAAAAAA7xk/9lO54MGbA6M/w1070-h803-no/IMG_20150523_134935.jpg)
 
-Guiamos los cables para que se queden lo más organizado posible, sujetándolos con bridas. (en la imagen)
+Guiamos los cables para que se queden lo más organizado posible, sujetándolos con bridas.
 
 ![Cables con bridas](https://lh3.googleusercontent.com/_tbapFYjzxbOAFAKCm_SJ97b1aygEPexW_TldGatFvBU=w1437-h597-no)
 
 Ahora es tiempo de ir conectando los cables.
 
 ![ESQUEMA CONEXIONADO](http://www.mibqyyo.com/descargas/wp-content/uploads/sites/7/2014/08/Conexiones-Prusa.jpg)
-(esqumema tomado de mybqyyo)
+(esquema tomado de mybqyyo)
 
-Empezamos con los cables de la capsula calefactora y de los ventiladores que hay que atornillar
+Empezamos con los cables de la capsula calefactora.
 
 ![FOTO](https://lh4.googleusercontent.com/uHJrtmPW78KHHDykbkEGM0A2Wfcoo2CiUncT3JaXaVEB=w420-h803-no)
 
-Ahora conectaremos el ventilador de capa (blower) qu eson los cables rojo y negro con una línea blanca
+Ahora conectaremos el ventilador de capa (blower) que son los cables rojo y negro con una línea blanca. El funcionamiento de este controlador se decide desde el programa, según sea necesario en cada momento.
 
 ![FOTO](https://lh5.googleusercontent.com/-AXEGupkjdd4/VWJLhteAWVI/AAAAAAAA7xk/_HYRy3Gdolg/w602-h803-no/IMG_20150523_202851.jpg)
 
-Conectamos la alimentación, el ventilador del extrusor y el ventilador de la electrónica a la regleta de alimentación, con cuidao de no equivocarnos de la polaridad. (en la foto no se ve conectado el ventilador de la electrónica)
+Conectamos la alimentación, el ventilador del extrusor y el ventilador de la electrónica a la regleta de alimentación, con cuidado de no equivocarnos de la polaridad. (en la foto no se ve conectado el ventilador de la electrónica). Estos ventiladores siempre están funcionando.
 
 ![FOTO](https://lh5.googleusercontent.com/-N6CVa9nroKw/VWJLhp02S4I/AAAAAAAA7zY/2rvXyEGUQGg/w1070-h803-no/IMG_20150523_203415.jpg)
 
