@@ -105,13 +105,22 @@ Conectamos la alimentación, el ventilador del extrusor y el ventilador de la el
 
 ![FOTO](https://lh5.googleusercontent.com/-N6CVa9nroKw/VWJLhp02S4I/AAAAAAAA7zY/2rvXyEGUQGg/w1070-h803-no/IMG_20150523_203415.jpg)
 
-Conectamos los motores cada uno en su lugar.
+Conectamos los motores cada uno en su lugar: los dos del eje Z, arriba, el Y y el X. En la imagen se ven los dos del eje Z.
 
 ![FOTO](https://lh5.googleusercontent.com/-GVZPNQF0Jbk/VWJLhmSHk9I/AAAAAAAA7xk/ZWQ4dqunEp0/w602-h803-no/IMG_20150523_202955.jpg)
+
+Según ĺos colores de mis cables y una vez puesta en funcionamiento la impresora deben estar según la siguiente imagen (en el esquema se ven todos igual y con otros colores)
+
+* Eje Z y eje Y: Arriba el color azul y abajo el negro.
+* Eje X y extrusor: arriba el negro y abajo el azul
+
+![CONEXION MOTORES](https://lh5.googleusercontent.com/vMJ6FTiUSmTQHp895FzOpy2C3-Ue121avr0iTPVlcp98=w646-h873-no)
 
 Es el turno de los finales de carrera
 
 ![FOTO](https://lh5.googleusercontent.com/-gre21FolXIg/VWJLhizSQFI/AAAAAAAA7xk/5TP4VKOeWTE/w602-h803-no/IMG_20150523_203832.jpg)
+
+![foto2](https://lh6.googleusercontent.com/-hOiaZb4PQBI/VWJgEkzVwwI/AAAAAAAA7z8/RnB8IpfuSeU/w646-h873-no/IMG_20150525_013417.jpg)
 
 De momento vamos a dejar los cables sin ajustar más hasta que pruebe que todo funciona ok.(Claramente habría sido más cómodo haber recortado los cables)
 
@@ -119,8 +128,8 @@ De momento vamos a dejar los cables sin ajustar más hasta que pruebe que todo f
 
 Vamos a colocar el ventilador, necesario para mantener la electrónica a una buena temperatura.
 
-![FOTO ](https://lh3.googleusercontent.com/-nE9PzH_Sqac/VWEZAJ2I2BI/AAAAAAAA7wQ/q0_JrH3crSc/w602-h803-no/IMG_20150523_212046.jpg)
+![FOTO ](https://lh4.googleusercontent.com/-04nltbvu1G4/VWJgjOLD9dI/AAAAAAAA70I/PY5zkiWpssM/w646-h873-no/IMG_20150525_013612.jpg)
 
-Es el momento de probar que todo funciona. Como va a requerir varias prueba vamos a documentar esas pruebas en otro post.
+Es el momento de probar que todo funciona. Como va a requerir varios tests lo documentaremos en otro post.
 
 JAVACASM
