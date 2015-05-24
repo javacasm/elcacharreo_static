@@ -6,32 +6,39 @@ published: false
 
 En este post vamos a terminar el [montaje de la impresora](http://blog.elcacharreo.com/tag/hephestos/) instalando y conectando la electrónica, continuando con el montaje de una impresora Prusa i3 [Hephestos de Bq](http://bq.com/es/prusa). 
 
+![electronica](https://lh3.googleusercontent.com/-lhBAqWrFVyE/VV-4xXaCAQI/AAAAAAAA7o0/0x9MYmunJZs/w602-h803-no/IMG_20150523_011131.jpg)
+
 Comenzaremos fijando la placa Arduino y la RAMPS al marco, utilizando una pieza de plástico que nos servirá para fijar los cables y como aislante.
 
-[PIEZAS]
+[Electrónica](https://lh3.googleusercontent.com/-l0uo3WRDsAs/VVfB4k8J4EI/AAAAAAAA7xo/o_aKKTlNkjc/w1070-h803-no/IMG_20150516_022127.jpg)
 
-Fijaremos los 2 tornillos en los agujeros opuestos sobre la pieza de plástico 
+Fijaremos los 2 tornillos en los agujeros opuestos sobre la pieza de plástico y luego lo fijaremos en el marco
 
-[RAMPS Y TORNILLOS]
+[RAMPS Y TORNILLOS](https://lh5.googleusercontent.com/-AXEGupkjdd4/VWJLhteAWVI/AAAAAAAA7xk/_HYRy3Gdolg/w602-h803-no/IMG_20150523_202851.jpg)
 
-y luego lo fijaremos en el marco
-
-[FIJADA AL MARCO]
+(en la foto se ve que hemos fijado ya algunos cables, pero iremos paso a paso)
 
 Ahora montaremos la estructura del LCD 
-[PIEZAS]
 
+[PIEZAS LCD](https://lh3.googleusercontent.com/-efYM255wiyw/VVfB4sfTYVI/AAAAAAAA7Sk/wW1DrYhIwkY/w1070-h803-no/IMG_20150516_022854.jpg)
+	
 (mejor revisar la forma de conectar las 2 piezas entre sí para no ponerlas al revés y que se pueda fijar bien en el marco)
+
+[LCD MONTADO](https://lh3.googleusercontent.com/-JAX-4r5sntM/VVfB4rsVe5I/AAAAAAAA7yM/OZFzLpRDONs/w1070-h803-no/IMG_20150516_024208.jpg)
+
+[LCD MONTADO ATRAS ](https://lh5.googleusercontent.com/-FFu7D9jRXI4/VVfB4txIyeI/AAAAAAAA7yU/3LizVc8dGpM/w1070-h803-no/IMG_20150516_024214.jpg)
 
 Fijamos el LCD a la pieza grande y luego fijamos la pequeña que estará conectada con el marco, por medio de 2 tuercas
 
 Para ello he tenido que agrandar uno de los agujeros
 
-[LCD desde delante]
+Veamos cómo queda desde alante:
 
-[LCD desde atrás]
+[LCD desde delante](https://lh5.googleusercontent.com/-0dAg_NRrNuI/VVfB4gE-faI/AAAAAAAA7Sk/laFrcw3pdbk/w1070-h803-no/IMG_20150516_024449.jpg)
 
+y desde atrás
 
+[LCD desde atrás](https://lh5.googleusercontent.com/-EwUp66Yd8es/VVfB4gBHxgI/AAAAAAAA7Sk/Ac88JGsfnow/w1070-h803-no/IMG_20150516_024442.jpg)
 
 
 Vamos a introducir todos los cables que llegan hasta el extrusor en la cadeneta: cable del motor, alimentación del casquillo calefactor, sensor de temperatura y los 2 ventiladores.
