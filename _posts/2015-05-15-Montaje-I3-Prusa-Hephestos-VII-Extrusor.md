@@ -1,7 +1,9 @@
 ---
 title: Montaje I3 Prusa Hephestos VII: Extrusor
 layout: post
+status: publish
 published: true
+
 ---
 
 
