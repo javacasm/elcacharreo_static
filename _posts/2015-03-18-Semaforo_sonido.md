@@ -1,3 +1,8 @@
+---
+title: "Semáforo de sonido"
+layout: post
+published: false
+---
 Semáforo de sonido
 
 

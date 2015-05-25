@@ -1,3 +1,9 @@
+---
+title: "Robótica educativa: Proyectos educativos con robots"
+layout: post
+published: true
+---
+
 # Robótica educativa: Proyectos educativos con robots
 
 Los objetivos del curso son:

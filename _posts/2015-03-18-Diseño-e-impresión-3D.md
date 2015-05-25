@@ -1,3 +1,8 @@
+---
+title: "Diseño e impresión 3D"
+layout: post
+published: false
+---
 # Diseño e impresión 3D
 
 1. Introducción

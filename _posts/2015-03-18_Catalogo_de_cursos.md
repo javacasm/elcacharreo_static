@@ -1,3 +1,9 @@
+---
+title: "Catálogo de cursos"
+layout: post
+published: true
+---
+
 # Catálogo de cursos
 
 * * * 
