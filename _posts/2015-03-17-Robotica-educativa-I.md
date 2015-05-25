@@ -1,3 +1,17 @@
+--- 
+layout: page
+status: publish
+published: true
+title: "Robotica educativa I"
+author: javacasm
+categories: []
+
+tags: []
+
+comments: []
+
+---
+
 # Robotica educativa I: 
 ## Arduino: soluciones en Domótica y Robótica
 

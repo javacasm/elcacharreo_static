@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Cursos impartidos
+title: "Cursos impartidos"
 author: javacasm
 categories: []
 

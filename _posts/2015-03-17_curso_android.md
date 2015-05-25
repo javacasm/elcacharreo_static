@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Programación de aplicaciones Android
+title: "Programación de aplicaciones Android"
 author: javacasm
 author_login: javacasm
 permalink: /cursos/android

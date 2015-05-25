@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Robótica e Inteligencia Artificial
+title: "Robótica e Inteligencia Artificial"
 author: javacasm
 categories: []
 

@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Cursos
+title: "Cursos"
 author: javacasm
 author_login: javacasm
 author_email: javacasm@elcacharreo.com

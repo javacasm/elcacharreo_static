@@ -1,3 +1,16 @@
+--- 
+layout: page
+status: publish
+published: true
+title: "Curso de Java para Android"
+author: javacasm
+categories: []
+
+tags: []
+
+comments: []
+
+---
 # Curso de Java para Android
 
 Curso virtual que imparto en Digital Learning

@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Arduino intermedio
+title: "Arduino intermedio"
 author: javacasm
 categories: []
 
