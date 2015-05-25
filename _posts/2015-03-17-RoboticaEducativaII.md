@@ -1,4 +1,3 @@
-
 --- 
 layout: page
 status: publish
