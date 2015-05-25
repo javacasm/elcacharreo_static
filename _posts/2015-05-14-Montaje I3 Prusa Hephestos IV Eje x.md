@@ -1,7 +1,7 @@
 ---
-title: Montaje I3 Prusa Hephestos IV: Eje X
+title: "Montaje I3 Prusa Hephestos IV: Eje X"
 layout: post
-published: false
+published: true
 ---
 En este post vamos a detallar cómo montar el eje X, [continuando con el montaje](http://blog.elcacharreo.com/tag/hephestos/) de una impresora Prusa i3 [Hephestos de Bq](http://bq.com/es/prusa)
 

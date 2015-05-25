@@ -1,5 +1,5 @@
 ---
-title: Montaje I3 Prusa Hephestos IX: Ajustes y Primera Impresión
+title: "Montaje I3 Prusa Hephestos IX: Ajustes y Primera Impresión"
 layout: post
 published: false
 ---
