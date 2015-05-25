@@ -1,7 +1,7 @@
 ---
-title: Montaje I3 Prusa Hephestos VI: EJE y
+title: "Montaje I3 Prusa Hephestos VI: EJE y"
 layout: post
-published: false
+published: true
 ---
 
 En este post vamos a detallar cómo montar el eje y, [continuando con el montaje](http://blog.elcacharreo.com/tag/hephestos/) de una impresora Prusa i3 [Hephestos de Bq](http://bq.com/es/prusa). Usaremos la base larga para conseguir imprimir piezas de hasta 30 cm x 20 cm .

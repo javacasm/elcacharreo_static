@@ -1,7 +1,7 @@
 ---
-title: ELF: Mini drone capaz de grabar video en HD
+title: "ELF: Mini drone capaz de grabar video en HD"
 layout: post
-published: false
+published: true
 ---
 <a href="https://images.indiegogo.com/file_attachments/1364189/files/20150407185944-elf.jpg?1428458384"><img class="alignleft" src="https://images.indiegogo.com/file_attachments/1364189/files/20150407185944-elf.jpg?1428458384" alt="ELF drone" width="257" height="171" /></a>
 
