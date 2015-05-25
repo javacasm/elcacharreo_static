@@ -1,6 +1,9 @@
 ---
-title: Plantilla
+title: "Librerías Multitarea Arduino"
 layout: post
 published: false
 ---
-2015-05-25-Librerías-Multitarea-Arduino.md
+
+https://github.com/jlamothe/mthread
+
+https://github.com/ivanseidel/ArduinoThread
