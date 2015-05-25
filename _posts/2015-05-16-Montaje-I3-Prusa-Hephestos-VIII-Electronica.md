@@ -1,5 +1,5 @@
 ---
-title: Montaje I3 Prusa Hephestos VIII: Electronica
+title: "Montaje I3 Prusa Hephestos VIII: Electronica"
 layout: post
 published: true
 ---
