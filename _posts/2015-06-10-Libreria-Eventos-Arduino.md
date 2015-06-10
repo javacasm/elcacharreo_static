@@ -11,3 +11,5 @@ Hola, con la estandarización de las librerías hay un poco de lío con los nomb
 * Arduino event: https://github.com/arcturial/arduino-event
 
 * Arduino EventManager: https://github.com/igormiktor/arduino-EventManager
+
+http://www.state-machine.com/arduino/
