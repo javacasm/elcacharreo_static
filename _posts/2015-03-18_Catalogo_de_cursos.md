@@ -128,6 +128,15 @@ Contenidos
 
 [Para más información](http://blog.elcacharreo.com/cursos/raspberry-basico/)
 
+
+### Herramientas Open-Source de programación, diseño e impresión 3D para Ingenieros
+
+El curso se puede dividir en 2 partes:
+* Una primera destinada a presentar herramientas de programación open-source
+* Y una introducción al mundo del diseño y de la impresión 3D usando software Open-source
+
+
+
 * * *
 
 ## Android:
@@ -141,6 +150,12 @@ El curso puede ser un excelente punto de entrada para todos aquellos que quieren
 
 [Para más información](http://blog.elcacharreo.com/2013/12/16/curso-de-java-basico-para-android-online/)
 
+
+### Programación de aplicaciones con App Inventor
+
+El objetivo de este curso es la aprender a usar herramientas visuales como App Inventor para hacer aplicaciones Android.
+
+Dado que el uso de estas herramientas es muy intuitivo, no se requieren conocimientos previos de programación.
 
 ### Introducción a la programación en Android
 
