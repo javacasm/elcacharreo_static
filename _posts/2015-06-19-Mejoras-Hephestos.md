@@ -1,9 +1,9 @@
 ---
-title: Plantilla
+title: Mejoras Hephestos
 layout: post
 published: false
 ---
-2015-06-19-Mejoras-Hephestos.md
 
 
 [Fin de carrera del eje Z](http://www.thingiverse.com/thing:678543)
+[¿por qué se mueve el fin de carrera?](http://www.mibqyyo.com/comunidad/discussion/46596/por-que-el-final-de-carrera-z-se-mueve/p1)
