@@ -1,6 +1,9 @@
 ---
-title: Plantilla
+title: Sensor-Inductivo-Hephestos
 layout: post
 published: false
 ---
-2015-06-19-Sensor-Inductivo-Hephestos.md
+
+[modelo](http://www.thingiverse.com/thing:674583/#files)
+
+[tutorial](http://www.mibqyyo.com/comunidad/discussion/44143/por-fin-monte-un-sensor-inductivo-para-auto-bed-leveling/p2)
