@@ -1,6 +1,9 @@
 ---
-title: Plantilla
+title: Motores Stepper
 layout: post
 published: false
 ---
-2015-07-07-Motores-Stepper.md
+
+
+
+[Programa supersimple](https://groups.google.com/forum/#!topic/asrob-uc3m-impresoras-3d/4Zp0L1ouaAU)
