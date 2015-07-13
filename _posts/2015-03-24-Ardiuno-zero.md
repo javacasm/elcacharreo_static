@@ -23,6 +23,9 @@ Constántemente estamos viendo nuevos avances y productos en el entorno del open
 |EEPROM|hasta 16KB emuladas|
 |Velocidad del reloj|48 MHz|
 
+
+
+
 [Página oficial](http://arduino.cc/en/Main/ArduinoBoardZero)
 [Más info](http://blog.arduino.cc/2014/05/15/meet-arduino-zero/)
 
