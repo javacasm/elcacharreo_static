@@ -5,7 +5,15 @@ published: false
 ---
 2015-07-13-.md
 
+## Introducción
 
+### ¿Qué es NeoPixel?
+
+Se trata de unos leds "inteligente" RGB a los que podemos programar cualquier color  y nivel de brillo y con los que es muy sencillo comunicarse, tanto en las conexiones como en la programación
+
+El nombre comercial es propiedad de Adafruit que también creó la librería que hoy en día es el estándar. Existen varios fabricantes, lo que ha hecho que hoy en día sean muy económicos.
+
+## Proyectos
 
 [Linterna RGB](http://makezine.com/projects/million-color-hsl-flashlight/)
 
@@ -121,3 +129,18 @@ Este es el código que usa
 	 strip.setPixelColor(i,color);
 	 }
 	}
+
+Otro montaje, quizás menos espectacular, puede ser este [monitor cardiaco](http://arduinobasics.blogspot.com.au/2015/07/neopixel-heart-beat-display.html)
+
+![monitor cardiaco](http://1.bp.blogspot.com/-MsoLBwbgry0/Vafrit-uMNI/AAAAAAAABnY/6KkZb2gKOIQ/s400/Neopixel%2BHeart%2BBeat%2BDisplay%2BTitle%2Bimage.jpg)
+
+## Montaje
+
+Nada más simple: alimentación, tierra y el cable de señal
+
+## Uso
+
+
+
+	Descargamos la librería
+	Y usamos los ejemplos.
