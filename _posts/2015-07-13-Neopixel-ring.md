@@ -16,12 +16,13 @@ Un de los mejore usos que le he visto es para montar un Reactor como el que usa 
 ![imagen](http://cdn.instructables.com/FGS/41HU/FN82NVPE/FGS41HUFN82NVPE.MEDIUM.jpg)
 El aspecto está muy logrado..
 
+También tenemos
 
 Otra versión del [reactor de IronMan](http://chrisbarrbuilds.com/2015/02/3d-printed-arc-reactor/)
 
 ![jpg](http://chrisbarrbuilds.com/wp-content/uploads/2015/02/2014-07-07-19.58.03.jpg)
 
-Esta versión una un anillo de 24 y un neopixel central:
+Esta versión una un anillo de 24 y un neopixel central. También ha compartido las [piezas 3D](http://www.thingiverse.com/thing:386926/#instructions) para hacerlo todavía más realista.
 
 Este es el código que usa
 
