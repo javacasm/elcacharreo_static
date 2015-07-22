@@ -17,7 +17,11 @@ El nombre comercial es propiedad de Adafruit que también creó la librería que
 
 [Linterna RGB](http://makezine.com/projects/million-color-hsl-flashlight/)
 
-Un de los mejore usos que le he visto es para montar un Reactor como el que usa IronMan
+Que permite hacer muchos efectos luminosos y muy controlable
+
+[código](http://retro-tronics.com/HSLFlashlight/HSLFlashlight.ino)
+
+Uno de los mejore usos que le he visto es para montar un Reactor como el que usa IronMan
 
 [Un instructable](http://www.instructables.com/id/Make-an-Iron-Man-Arc-Reactor/) explicando cómo usarlo
 
@@ -144,3 +148,16 @@ Nada más simple: alimentación, tierra y el cable de señal
 
 	Descargamos la librería
 	Y usamos los ejemplos.
+
+
+## Más proyectos de reactores IronMan
+
+[Uno](http://www.instructables.com/id/Iron-Man-Arc-Reactor-DIY-Wearable/)
+
+[Oto muy realista](http://www.instructables.com/id/New-Arc-Reactor-studio-replica/)
+
+[Uno más simple](http://www.instructables.com/id/How-to-make-an-Iron-Man-Arc-Reactor/)
+
+[Montaje artesanal](http://xrobots.co.uk/arc/)
+
+![Modelo DIY](http://nmtcreations.deviantart.com/art/Iron-man-arc-reactor-1-186305225)
