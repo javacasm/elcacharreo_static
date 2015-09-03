@@ -30,5 +30,7 @@ Contenido:
 
 Tomado de [electrohobby](http://www.electrohobby.es/tienda/es/wifi/186-entrenadora-wifi-esp8266-201-io.html)
 
+[Otro entrenador](http://www.esp8266-projects.com/2015/04/esp8266-ultimate-devboard-finally.html)
+
 
 
