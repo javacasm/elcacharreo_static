@@ -18,6 +18,7 @@ Proceso de revisión:
 * Limpiar el hotend
 * Revisión de cables
 * Nivelado de la plataforma
+* Obtener la última versión del firmware y perfiles de impresióon [bq Hephestos](http://www.bq.com/es/support/prusa)
 
 Después de todos estos ajustes y un par de pruebas me dí cuenta de que el ventilador de la electrónica estaba apagado...
 
