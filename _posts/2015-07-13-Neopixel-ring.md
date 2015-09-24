@@ -153,7 +153,7 @@ Descargamos la librería y usamos los ejemplos.
 
 [Uno](http://www.instructables.com/id/Iron-Man-Arc-Reactor-DIY-Wearable/)
 
-[Oto muy realista](http://www.instructables.com/id/New-Arc-Reactor-studio-replica/)
+[Otro muy realista](http://www.instructables.com/id/New-Arc-Reactor-studio-replica/)
 
 [Uno más simple](http://www.instructables.com/id/How-to-make-an-Iron-Man-Arc-Reactor/)
 
