@@ -15,6 +15,11 @@ Vamos a necesitar darle algo de brillo, para eso le añadiremos un anillo de neo
 ![anillo neopixel](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/88513dc83c30c3ca4293f5917182340e/medium.bmp)
 [modelo](https://grabcad.com/library/tag/neopixel)
 
+## Diseño
+
+[espectacular diseño](http://xrobots.co.uk/arc2/)
+
+![diseño](http://xrobots.co.uk/arc2/arc03_sm.jpg)
 # v1
 
 El controlador debe ser pequeño y para eso utilizaremos un arduino mini o similar 
