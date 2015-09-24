@@ -146,8 +146,7 @@ Nada más simple: alimentación, tierra y el cable de señal
 
 
 
-	Descargamos la librería
-	Y usamos los ejemplos.
+Descargamos la librería y usamos los ejemplos.
 
 
 ## Más proyectos de reactores IronMan
