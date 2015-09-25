@@ -34,6 +34,9 @@ Facultad de Ciencias - Julio 2015 60h
 * Led Matrix
 * RFid
 
+## Herramientas Open-Source de programación, diseño e impresión 3D para Ingenieros
+Escuela de Ingenieros - 20-29 de Mayo 2015  - 20h
+
 ## Arduino avanzado (3ª edición)
 CEVUG - Mayo-Julio 2015 - 100h (virtuales)
 
