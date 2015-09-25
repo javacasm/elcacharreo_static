@@ -19,6 +19,7 @@ published: false
 (ordenadas por facilidad)
 [librería](https://github.com/itead/ITEADLIB_Arduino_WeeESP8266)
 [esp8266](https://github.com/Diaoul/arduino-ESP8266) (parece que permite hacer clientes fáciles)
+[adafruit](https://github.com/adafruit/Adafruit_ESP8266) (parece que es de bajo nivel)
 
 ## recursos
 
