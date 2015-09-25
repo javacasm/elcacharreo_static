@@ -18,9 +18,18 @@ En una primera versión (porque todavía no controlo el ESP8266) usará un ardui
 
 ## Elementos
 
-La entrada la hacemos por unas clemas a las que podemos añadir unos conectores para facilitar la conexión
+* La entrada la hacemos por unas clemas a las que podemos añadir unos conectores para facilitar la conexión
+* Incluimos un interruptor para cortar la alimentación. Por medio de un jumper podemos hacer que el interruptor corte también la alimentación de arduino o no
+* Arduino mide la corriente que pasa y podemos calcular la potencia que se está usando ¿necesitamos el voltaje?¿podemos medirlo?
+* Un relé permite cortar la corriente remotamente
+* Al sistema se acede mediante una página web donde podemos ver un gráfico del consumo y controlamos el relé
 
-Incluimos un interruptor para cortar la alimentación. Por medio de un jumper podemos hacer que el interruptor corte también la alimentación de arduino o no
 
 # v2
 En una segunda versión el ESP8266 o similar hace todo el trabajo eliminado el arduino
+Enviamos los datos a alguna página online
+¿Puede almacenar el esp los datos?
+Recuperamos la hora desde internet y podemos en hora el sistema (librería time)
+
+# v3
+Podemos tener una baterías de relés y medimos el consumo de cada uno.
