@@ -21,7 +21,7 @@ Está estructurado para 60 horas y se impartió para la fundación IFES en Julio
 
 * Conceptos generales de la inteligencia artificial.
 * Nociones de prolog (programación lógica).
-* Sistemas expertos. [[presentación](http://www.slideshare.net/javacasm/3-inteligencia-artificial-ramas)
+* Sistemas expertos. [presentación](http://www.slideshare.net/javacasm/3-inteligencia-artificial-ramas)
 * Agentes inteligentes
 * Robótica.
 * El proyecto ALICE.
