@@ -15,7 +15,10 @@ Los objetivos del curso son:
 
 En este curso se desarrollaran 3 proyectos diferentes que tendrán en común el usar una placa Arduino como controlador. Los contenidos sobre Arduino se explicaron en el módulo I de la formación dedicada a la construcción de drones. Se parte de un diseño genérico que los alumnos han de implementar.
 
-Invernadero digital: Se medirán y registrarán variables meteorológicas: temperatura, humedad ambiental y humedad del suelo para decidir si se activan sistemas de riego o de ventilación. Los datos se guardan en una tarjeta SD de formato micro que puede ser leída desde un ordenador donde se podrán analizar. Se ha incluído una pequeño panel solar para hacerlo más ecológico.
+* **Invernadero digital**: Se medirán y registrarán variables meteorológicas: temperatura, humedad ambiental y humedad del suelo para decidir si se activan sistemas de riego o de ventilación. Los datos se guardan en una tarjeta SD de formato micro que puede ser leída desde un ordenador donde se podrán analizar. Se ha incluído una pequeño panel solar para hacerlo más ecológico.
 
-Globo sonda meteorológico: Se medirán y registrarán variables meteorológicas: temperatura, humedad ambiental y presión atmósférica junto a la posición por medio d un gps y el movimiento con un acelerómetro lo que nos permite saber el movimiento que realiza en su vuelo. Los datos se guardan en una tarjeta SD de formato micro que puede ser leída desde un ordenador donde se podrán analizar con posterioridad. Se ha dotado al sistema de un pequeño panel solar para darle mayor autonomía.
+* **Globo sonda/ estación meteorológica**: Se medirán y registrarán variables meteorológicas: temperatura, humedad ambiental y presión atmósférica junto a la posición por medio d un gps y el movimiento con un acelerómetro lo que nos permite saber el movimiento que realiza en su vuelo. Los datos se guardan en una tarjeta SD de formato micro que puede ser leída desde un ordenador donde se podrán analizar con posterioridad. Se ha dotado al sistema de un pequeño panel solar para darle mayor autonomía.
 
+* **Robot móvil**: con 2 motores y ruedas, dotado de sensor de distancia. Podremos realizar un mapa de la zona en la que se encuentra, detectando y evitando obtáculos en su camino. Los datos del movimiento se almacenan en un tarjeta SD para su posterior análisis.
+
+Durante el curso los alumnos han diseñado en 3D sus propias piezas, basándose en otros modelos, ensamblado la electrónica y programado el comportamiento usando [bitbloq](http://bitbloq.bq.com) y arduino
