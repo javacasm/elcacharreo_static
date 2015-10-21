@@ -38,6 +38,7 @@ El led driver TM1637
 
 ### 595
 
+http://www.robotshop.com/en/serial-8-characters-7-segment-led-display.html
 
 ### TM5960
 
