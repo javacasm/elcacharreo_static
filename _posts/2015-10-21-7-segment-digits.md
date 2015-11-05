@@ -13,12 +13,6 @@ Dado que eston son problemas muy habituales, existe hardware específico con el 
 
 Se trata de chip capaces de controlar un gran número de leds, incluso manejando grandes corrientes
 
-### 7 segmentos
-
-![image](http://salvatorelab.es/wp-content/uploads/2013/11/scheme.png)
-
-[más detalles](http://www.instructables.com/id/Arduino-4-digit-7-segment-display/)
-
 ### MAX7219 
 Conocido como LED matrix driver
 
@@ -27,18 +21,14 @@ para matrices de leds y para 7-segmentos
 Instalamos LedControl http://embedded-lab.com/blog/?p=6862&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+EmbeddedLab+%28Embedded+Lab%29
 
 ### TM1638
-
-https://code.google.com/p/tm1638-library/
+http://tronixstuff.com/2012/03/11/arduino-and-tm1638-led-display-modules/
 
 ### TMS1637
 
-El led driver TM1637
-
-[TMS1637 Library](https://github.com/avishorp/TM1637)
+http://playground.arduino.cc/Main/TM1637
 
 ### 595
 
-http://www.robotshop.com/en/serial-8-characters-7-segment-led-display.html
 
 ### TM5960
 
