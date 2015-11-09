@@ -1,10 +1,13 @@
----
+	---
 title: Nuevas Librerías arduino
 layout: post
 published: false
 ---
 
 Hablar sobre el "Gestor de librerías"
+
+
+https://blog.arduino.cc/2015/10/26/how-to-write-a-library-for-arduino/
 
 [Gaussian](https://github.com/ivanseidel/Gaussian) Libería matemática permite hacer medias móviles y ¿complejos?
 [LinkedList](https://github.com/ivanseidel/LinkedList) Librería que nos permite usar array de una forma más rápida ¿list?
