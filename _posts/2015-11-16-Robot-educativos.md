@@ -20,7 +20,7 @@ published: false
 	* 4 pilas AA
 	* arduino nano
 	* controladora simple
-	* [espaciadores](http://www.thingiverse.com/thing:710249/#files)
+	* [espaciadores](http://www.thingiverse.com/thing:710249/#files) o [estos](http://es.aliexpress.com/wholesale?catId=0&initiative_id=SB_20151113104444&SearchText=hex+spacers+m4+25mm)
 * ¿Wall-e?
 ![wall-e](http://bricolabs.cc/wiki/images/thumb/e/e3/Sapoconcho_walle.jpg/150px-Sapoconcho_walle.jpg)
 
@@ -66,5 +66,6 @@ published: false
 |[bluetooth](http://es.aliexpress.com/store/product/HC-06-Bluetooth-serial-pass-through-module-wireless-serial-communication-from-machine-Wireless-HC06-for-arduino/1185416_1728883749.html?spm=2114.04020208.3.71.A5CX4D&ws_ab_test=searchweb201556_6_21_79_78_77_92_91_22_80,searchweb201644_5,searchweb201560_9)|| 3€|
 |[power bank](http://es.aliexpress.com/store/product/Hot-Selling-Portable-2600mAh-USB-Cell-Phone-Power-Bank-External-Battery-Replacement-Backup-Charger-for-iPhone/1511447_32324885054.html?spm=2114.04020208.3.101.aBXmem&ws_ab_test=searchweb201556_6_21_79_78_77_92_91_22_80,searchweb201644_5,searchweb201560_9)|| 5€|
 |[caja power bank](http://es.aliexpress.com/store/product/Portable-Powerbank-Power-Bank-USB-1x-18650-Battery-Charger-Case-Box-for-Mobile-Phone-MP3-69257/736265_32366589325.html?spm=2114.04020208.3.39.opSVec&ws_ab_test=searchweb201556_6_21_79_78_77_92_91_22_80,searchweb201644_5,searchweb201560_9)|| 1€|
-|[]()|| €|
-|[]()|| €|
+|[goma rueda](http://es.aliexpress.com/store/product/30mm-x-4mm-Hot-Sale-Mechanical-Nitrile-Rubber-NBR-Rubber-O-Ring-Washer-Seals-Gaskets-Ring/1244452_32380096419.html?spm=2114.04020208.3.181.Ym0JGs&ws_ab_test=searchweb201556_6_21_79_78_77_92_91_22_80,searchweb201644_5,searchweb201560_9)|| 1,8€|
+|[Arduino nano](http://es.aliexpress.com/wholesale?catId=0&initiative_id=SB_20151113090202&SearchText=arduino+nano+3.3v)|| 3€|
+|[motor N20](http://es.aliexpress.com/wholesale?catId=0&initiative_id=SB_20151113084719&SearchText=n20)||2€|
