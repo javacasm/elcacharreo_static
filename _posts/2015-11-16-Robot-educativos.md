@@ -45,3 +45,9 @@ published: false
 * Siguelineas
 * Huye o acerca luz
 * Rutas
+
+
+# Materiales
+
+|descripción|imagen|precio unidad|
+|----|----|----|----|
