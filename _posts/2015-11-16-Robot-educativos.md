@@ -15,6 +15,12 @@ published: false
 
 ## [SapoConcho](http://bricolabs.cc/wiki/index.php?title=Sapoconcho)
 * KIS
+![kis](http://bricolabs.cc/wiki/images/thumb/4/4d/Prototipo_3.jpg/150px-Prototipo_3.jpg)
+	* 2 motores N20
+	* 4 pilas AA
+	* arduino nano
+	* controladora simple
+	* [espaciadores](http://www.thingiverse.com/thing:710249/#files)
 * ¿Wall-e?
 ![wall-e](http://bricolabs.cc/wiki/images/thumb/e/e3/Sapoconcho_walle.jpg/150px-Sapoconcho_walle.jpg)
 
