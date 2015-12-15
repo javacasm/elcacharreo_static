@@ -1,6 +1,20 @@
 ---
-title: Plantilla
+title: Comparativa entornos
 layout: post
 published: false
 ---
-2015-12-15-Comparativa-entornos.md
+
+
+## Arduino
+
+* bitbloq
+* Visulaino
+* mbot
+* ardublot
+* (curso de arduino)
+
+## PC
+
+* Processing
+* Scratch
+* Snap
