@@ -1,5 +1,5 @@
 ---
-title: Comparativa robots imprimibles
+title: Comparativa robots ¿imprimibles?
 layout: post
 published: false
 ---
@@ -19,3 +19,7 @@ expression
 [pintabot]
 
 [barato]
+
+[¿mbot?]
+
+[¿Lego?]
