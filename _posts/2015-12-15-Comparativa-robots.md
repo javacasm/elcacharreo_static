@@ -1,6 +1,21 @@
 ---
-title: Plantilla
+title: Comparativa robots imprimibles
 layout: post
 published: false
 ---
-2015-12-15-Comparativa-robots.md
+
+
+
+Printbot
+
+bq escarabajo
+
+expression
+
+[Escornabot](http://bricolabs.cc/wiki/index.php?title=Escornabot)
+
+[Sapoconcho](http://bricolabs.cc/wiki/index.php?title=Sapoconcho)
+
+[pintabot]
+
+[barato]
