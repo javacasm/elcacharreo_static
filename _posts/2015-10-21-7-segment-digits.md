@@ -13,7 +13,7 @@ Dado que eston son problemas muy habituales, existe hardware específico con el 
 
 Se trata de chip capaces de controlar un gran número de leds, incluso manejando grandes corrientes
 
-### MAX7219 
+### MAX7219
 Conocido como LED matrix driver
 
 para matrices de leds y para 7-segmentos
@@ -39,4 +39,4 @@ https://www.sparkfun.com/products/11441
 
 http://cdn.sparkfun.com/datasheets/Components/LED/Serial-7-Segment-Display-v31.pdf
 
-[tutoriales](https://learn.sparkfun.com/tutorials/using-the-serial-7-segment-display/introduction?_ga=1.195695532.1633812673.1445449179)
+[tutoriales](https://learn.sparkfun.com/tutorials/using-the-serial-7-segment-display/all)
