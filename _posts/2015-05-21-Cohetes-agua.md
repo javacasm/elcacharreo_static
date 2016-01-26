@@ -30,7 +30,7 @@ published: false
 
 [tapón para conectar a manguera](http://www.thingiverse.com/thing:781367)
 
-[revisión de uso](http://www.uswaterrockets.com/research_&_development/3D_Gardena_Nozzle/report.htm)
+[revisión de uso](http://www.uswaterrockets.com/research_&_development/3D_Gardena_Nozzle/report.htmcasm)
 
 ![3](http://thingiverse-production-new.s3.amazonaws.com/renders/08/c6/64/35/f3/WaterRocketNozzle_preview_featured.jpg)
 
