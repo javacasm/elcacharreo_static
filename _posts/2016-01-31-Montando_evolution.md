@@ -138,3 +138,9 @@ Revisar los cables!!! Uno mal!!!
 Recalibrar los servos!!!
 
 Programas  en bitbloq antiguos!!!! ¿dónde están los programas?
+
+
+## Opiniones
+
+Está guai
+Demasiados tornillos
