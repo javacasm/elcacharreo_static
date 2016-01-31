@@ -103,7 +103,21 @@ Mejor no sacar todo desde el principio
 (80 minutos)
 
 ## Conectando los cables
-* 
+
+# **¡¡Cuidado con los colores!!**
+Importan
+Hay que empujar bien
+
+1. Seguimos los cables y con cuidado con la izda y drcha
+1. Buzzer al 12
+1. Servo pequeño al 11
+1. Servo drcha al 9
+1. Serva izda al 8
+1. Sensor luz drcha al A3
+1. Sensor luz izda al A2
+1. Sensor de suelo al 2 y al 3
+1. Sensor de distancia 4 y 5 amarillos y rojo y negro (al del 13)
+
 
 ## Comentarios
 
@@ -118,3 +132,9 @@ Tener preparadas las piezas electrónicas
 Servos: dejar sólo lo necesario
 
 ¿Montar sensors sin cables y luego ponerlos?
+
+Revisar los cables!!! Uno mal!!!
+
+Recalibrar los servos!!!
+
+Programas  en bitbloq antiguos!!!! ¿dónde están los programas?
