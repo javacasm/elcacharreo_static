@@ -5,6 +5,14 @@ published: false
 ---
 2016-01-31-Montando_evolution.md
 
+[Montaje](http://diwo.bq.com/montaje-del-printbot-evolution/)
+
+([detalles](http://diwo.bq.com/product/kit-printbot-evolution/))
+
+([Robopad](http://diwo.bq.com/robopad-3/))
+
+[skin dragon](http://diwo.bq.com/wp-content/uploads/2015/02/Evolution_plantilla_dragon.pdf)
+[skins](http://diwo.bq.com/printbot-evolution-skins/)
 ## Herramientas
 
 * Destornillador mediano para los servos grandes
