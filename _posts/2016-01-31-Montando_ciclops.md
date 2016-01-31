@@ -32,3 +32,31 @@ Pegamos la alfombrilla antideslizante
 [fotoAntideslizante]
 Quedando ya montado el disco
 [fotodiscoMontado]
+
+## Montaje de la estructuras
+
+Comenzamos ahora a montar la estructura
+[fotocajaestructura]
+El interior contiene tornillos, varillas y piezas impresas
+[fotoInteriorCaja]
+[foto contenido]
+(en estra foto el soporte de la electrónica y de la cámara está al revés)
+En estas piezas curvas se aprecia la calidad de la impresión
+[fotopiezascurvas]
+
+Empezamos con las 3 varillas más largas, que serán las que marquen la distancia entre el diso y el soporte
+[piezasvarillas]
+Ajustamos las tuercas a unos 3cm de un extremo y dejando que la varilla más corta marque la posición en las  más largas
+[foto varillas con tuercas]
+
+Ahora vamos a fijar el soporte del motor y el de la electrónica a las varillas
+[piezasvarillassoportes]
+
+Para ellos insertamos las tuercas en los huecos de las pizeas
+[foto tuercas piezas]
+Hacemos que las varillas más largas salgan unos 4cm por el extremo del soporte del motor (luego las ajustaremos)
+[fotos varillas motor]
+Ahora insertamos la varilla central en el soporte de la cámara
+[fotovarillacamara]
+Ajustamos la varillas más largas
+[fotoTodas las varillas]
