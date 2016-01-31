@@ -7,6 +7,8 @@ published: false
 
 # ¿Qué es ciclops?
 
+Scanner de l uz estructurada
+
 # Montaje
 Caja plana
 [fotoCaja]
@@ -33,7 +35,11 @@ Pegamos la alfombrilla antideslizante
 Quedando ya montado el disco
 [fotodiscoMontado]
 
-## Montaje de la estructuras
+## Montaje de la estructura de las varillas
+
+Primero motnaremos la base que une el soporte del motor y el de la electrónica
+
+## Montaje de la base
 
 Comenzamos ahora a montar la estructura
 [fotocajaestructura]
@@ -60,3 +66,11 @@ Ahora insertamos la varilla central en el soporte de la cámara
 [fotovarillacamara]
 Ajustamos la varillas más largas
 [fotoTodas las varillas]
+
+## Montaje de los brazos de los láseres
+
+Ahora usaremos las restante 4 varillas para montar los 2 brazos donde soporte de los láseres
+[foto piezas laseres]
+
+Dejamos las tuercas a unos 2cm de los extremos
+[foto varillatuercas]
