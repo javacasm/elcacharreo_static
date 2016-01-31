@@ -72,5 +72,116 @@ Ajustamos la varillas más largas
 Ahora usaremos las restante 4 varillas para montar los 2 brazos donde soporte de los láseres
 [foto piezas laseres]
 
-Dejamos las tuercas a unos 2cm de los extremos
+Dejamos las tuercas a unos 4cm de los extremos
 [foto varillatuercas]
+
+Colocamos los brazos de un lado
+[fotobrazosizqda]
+
+Colocamos los brazos del otro  lado
+[fotobrazosdrcha]
+
+Quedando ya los brazos completos
+[foto completos]
+
+Aprovechamos para apretar las tuercas
+
+## Sujección de los láseres
+
+Ahora vamos a montar los los soportes de los láseres
+[fotos de los soportes láseres]
+
+Montamos con las 4 tuercas (y sus arandelas) los soportes de los láseres
+
+## Montaje del motor paso a paso
+
+Vamos a conectar el motor del plato. Para ello empezaremos preparando el engranaje
+(el motor está en la caja de electrónica)
+[foto del engranaje]
+
+Vamos a colocar el motor en su pieza
+[foto motor colocado]
+
+y le añadimos el engranaje
+[foto engranaje]
+
+Ahora ponemos el disco en su lugar
+[foto disco colocado]
+
+Colocamos las gotas de silicona
+
+
+## Electrónica
+[foto de la electŕonica]
+* Motor paso a paso
+* WebCam Logitech
+* Alimentación
+* Placa Zum
+* Placa ZumScan
+* 2 Láseres
+
+### Añadimos los láseres
+
+Colocamos los láseres
+[fotoColocacionLaseres]
+
+Pasamos los cables por el hueco hacia abajo
+[fotocables laser 1]
+[fotocables laser 2]
+Dejando todos los cables por atrás
+[foto clabes atras]
+
+### Cámara
+
+Para colocar la cámara es necesario desmontar el soporte. para lo que usaremos la llave Alen
+[foto cámara]
+
+Quitamos los tapones laterales de goma
+[foto tapones]
+
+Quitamos el tornillo del pasado
+[foto tornillo]
+
+Empujamos el pasador
+[foto pasador]
+
+dejando la cámara sin base
+[foto cámara]
+
+ahora colocamos la cámara en la pieza soporte
+[foto camara en soporte]
+
+Colocamos la placa Zum con el ZumScam y el driver del motor en su lugar
+[foto placa]
+
+Conectamos los láseres: el L1 es el de la izquierda (visto desde atrás) y el L2 ede la derecha
+[foto láseres conectados]
+
+Conectamos el motor a la derecha del driver, con el cable negro arriba (según se mira)
+[fotoconexion todo]
+
+Ahora ya solo queda poner las canaletas para los cables sobre las varillas
+[foto canaleta corta]
+[foto canaleta larga]
+
+y la tapadera de atrás
+
+[foto tapadera]
+
+## Montaje del patrón
+
+Ya sólo nos queda montar el patrón
+[foto piezas patron]
+
+Retiramos las protecciones del metacrilato
+
+Atornillamos
+[foto tornillo]
+
+Pegamos los patrones
+
+# Configuración e instalación del software
+
+http://www.bq.com/ciclop
+
+Descargamos el [firmware](https://github.com/bqlabs/horus-fw) de la placa Zum (que Grbl)
