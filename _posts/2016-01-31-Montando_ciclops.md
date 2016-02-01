@@ -164,9 +164,13 @@ Ahora ya solo queda poner las canaletas para los cables sobre las varillas
 [foto canaleta corta]
 [foto canaleta larga]
 
+Antes de cerrar, asegurarse de que hemos dejado el interruptor zum en ON
+
 y la tapadera de atrás
 
 [foto tapadera]
+
+
 
 ## Montaje del patrón
 
@@ -200,5 +204,7 @@ Cuidado con el opencv
 2043  horus
 
 
+
 [Pantallazo de los láseres]
 Ahora ajustamos los láseres verticalmente
+[foto de los laseres ajustados]
