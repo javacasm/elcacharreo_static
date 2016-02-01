@@ -208,3 +208,10 @@ Cuidado con el opencv
 [Pantallazo de los láseres]
 Ahora ajustamos los láseres verticalmente
 [foto de los laseres ajustados]
+
+
+## Referencias
+
+[Posts en Diwo sobre el tema](http://diwo.bq.com/tag/ciclop/)
+[github ciclop](https://github.com/bqlabs/ciclop)
+[github horus](https://github.com/bqlabs/horus)
