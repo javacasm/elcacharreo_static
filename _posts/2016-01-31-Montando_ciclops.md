@@ -185,3 +185,20 @@ Pegamos los patrones
 http://www.bq.com/ciclop
 
 Descargamos el [firmware](https://github.com/bqlabs/horus-fw) de la placa Zum (que Grbl)
+
+Descargamos horus
+
+https://static-bqreaders.s3.amazonaws.com/file/ciclop/Horus_Manual_ES.pdf
+
+¿He instalado python-scipy y python-opencv?
+Cuidado con el opencv
+
+2039  sudo add-apt-repository ppa:bqopensource/opencv
+2040  sudo add-apt-repository ppa:bqopensource/horus
+2041  sudo apt-get update
+2042  sudo apt-get install horus
+2043  horus
+
+
+[Pantallazo de los láseres]
+Ahora ajustamos los láseres verticalmente
