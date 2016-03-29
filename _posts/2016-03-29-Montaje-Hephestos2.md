@@ -52,6 +52,26 @@ Terminado a 10:47
 
 Marco ligero de aluminio
 
+## Eje X (perdidos 5 minutos con la correa )
+
+### Fijar correa larga
+
+Las correas vienen marcadas con su longitud para evitar errores
+
+¡¡¡¡Cuidado con dejar fuera uno de los lados de la correa!!!!
+¡¡¡¡Cuidado con que se escape la correa
+Pro: loz guantes aunque pequeños y frágiles
+
+Cons:
+* Al buscar la correa larga vemos que las piezas están descolocadas
+* Falta indicar el motor a usar
+
+Fijamos el engranaje igus (una delicia como desliza)
+
+fijamos la pieza donde irá el extrusor
+
+Fijamos el final de carrera
+
 # Referencias
 
 [Guía de Montaje](http://it-bqcom15-media.s3.amazonaws.com/prod/resources/manual/QSG_Hephestos-2_web-1447324725.pdf)
