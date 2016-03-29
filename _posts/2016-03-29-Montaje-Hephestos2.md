@@ -177,6 +177,12 @@ Fijamos el extrusor
 Portarollos y embellecedores
 
 
+## Resultado
+
+
+## Impresiones
+
+
 # Referencias
 
 [Guía de Montaje](http://it-bqcom15-media.s3.amazonaws.com/prod/resources/manual/QSG_Hephestos-2_web-1447324725.pdf)
