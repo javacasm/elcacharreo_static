@@ -135,6 +135,48 @@ Fijamos el soporte de la cama siguiendo el orden de apretado que nos indica el m
 
 Fijamos la cama con los 3 muelles
 
+Añadimos el crista y fijamos la presillas
+
+Terminamos a 13:09 (con charla/descanso de 20 minutos en medio)
+
+## Electrónica
+
+LCD y el "mando" (3 páginas para explicar esto y poner varios pasos en una...)
+
+Pegamos los adhesivos a la pieza metálica (¿un disipador?)
+
+Fijamos la placa de la electrónica encima del "disipador" y fijada a la base
+
+### Cableado
+
+Uno de los pasos más difíciles ha sido fijar el mazo de cables al soporte del extrusor
+Habría que dejar más espacio para los tornillos
+
+Añadimos los cables a los motores Z y al Y
+
+Conectamos los  cables de los 4 motores a los pines correspondientes siguiendo las indicaciones de la página 94 de la guía
+
+Añadimos el cable al fin de carrera del Y
+
+Conectamos los 2 finales de carrera y el cable del sensor inductivo a la placa
+
+Conectamos los cables del calefactor del extrusor y de la sonda de temperatura
+
+Terminado a 13:57
+
+## extrusor
+
+Fijamos el sensor inductivo
+
+Conectamos los cables
+
+Fijamos el extrusor
+
+## Terminación
+
+Portarollos y embellecedores
+
+
 # Referencias
 
 [Guía de Montaje](http://it-bqcom15-media.s3.amazonaws.com/prod/resources/manual/QSG_Hephestos-2_web-1447324725.pdf)
