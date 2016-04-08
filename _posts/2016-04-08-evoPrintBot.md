@@ -16,9 +16,9 @@ basado en
 
 * Usar ESP8266, quizás el ESP12E
 
-* Odometro: usar un sensor ir para medir las distancias 
+* Odometro: usar un sensor ir para medir las distancias
 
 
 ## Tiempos de impresión
 base.gcode v0.5 2h 13m
-evoPrintBot.gcode
+evoPrintBot.gcode 4h 45m
