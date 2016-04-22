@@ -21,3 +21,12 @@ published: false
 [Gcode Controller](http://diwo.bq.com/cnc-gcode-controller-instalacion-y-uso/)
 
 [Ejemplos para fresar: ESP8266 pcb-brekout](https://github.com/sfgit/ESP8266-01-BREAKOUT)
+
+
+## Software
+
+Vamos a usar [bCNC](https://github.com/javacasm/bCNC)
+
+Descargamos el zip y ejecutamos
+
+  ./bCNC
