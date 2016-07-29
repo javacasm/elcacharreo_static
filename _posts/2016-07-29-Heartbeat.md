@@ -3,7 +3,7 @@ title: Heartbeat
 layout: post
 published: false
 ---
-2016-07-29-Heartbeat.md
+
 
 [heart-rate-measurement-from-fingertip](http://embedded-lab.com/blog/heart-rate-measurement-from-fingertip/)
 [networked-heartbeat-sensor-with-arduino](http://charlesmartin.com.au/blog/2013/2/21/networked-heartbeat-sensor-with-arduino)
