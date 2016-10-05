@@ -52,3 +52,7 @@ Gracias por tus comentarios.
 ### Drivers
 
 [laser driver](http://www.instructables.com/id/DIY-Laser-Diode-Driver-Constant-Current-Source/?utm_content=bufferb6c56&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+
+### Referencias
+
+[Consideraciones a tener en cuenta para laser cutting](http://makezine.com/2016/09/29/5-important-things-consider-laser-cutting/)
