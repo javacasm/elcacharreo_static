@@ -49,6 +49,17 @@ Gracias por tus comentarios.
 
 [modelo big](http://www.instructables.com/id/3W-4x4-Arduino-Laser-CutterEngraver/?ALLSTEPS)
 
+### Modelo comprado
+
+![a](http://gloimg.gearbest.com/gb/pdm-product-pic/Electronic/2016/05/31/goods-img/1464803282718111875.jpg)
+
+[2500mW lasser engraver](http://www.gearbest.com/3d-printers-3d-printer-kits/pp_364360.html)
+
+It can engrave materials: Wood, bamboo, plastic, paper, leather, rubber .
+This machine can cut paper, felt, fabric, 1-2mm balsa (1.6W or more, and low efficiency)
+
+![kit](http://gloimg.gearbest.com/gb/pdm-product-pic/Electronic/2016/05/31/source-img/20160531103823_63430.jpg)
+
 ### Drivers
 
 [laser driver](http://www.instructables.com/id/DIY-Laser-Diode-Driver-Constant-Current-Source/?utm_content=bufferb6c56&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
