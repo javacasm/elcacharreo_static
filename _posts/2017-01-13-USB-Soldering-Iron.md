@@ -7,6 +7,11 @@ published: false
 
 ## Referencias
 
+Cómo crear un tweezers (soldador para smd) con 2 soldadores USB
+http://hackaday.com/2016/12/07/turn-cheap-usb-soldering-irons-in-to-tweezers/#comment-3361756
+
+https://hackaday.io/project/18706-cheap-smd-soldering-tweezers-from-ebay
+
 http://hackaday.com/2016/04/25/usb-soldering-iron-is-surprisingly-capable/
 
 Test y tear down
