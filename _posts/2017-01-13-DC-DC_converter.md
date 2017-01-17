@@ -40,3 +40,6 @@ https://es.aliexpress.com/item/5pcs-lot-1A-dedicated-lithium-battery-charging-pa
 [¿el mismo?](http://www.esp8266-projects.com/2015/03/mailbag-arrival-new-battery-solution.html)
 
 ![a](https://cdn.instructables.com/FDA/38GT/I8BGIASB/FDA38GTI8BGIASB.MEDIUM.jpg?width=614)
+
+
+## [Cómo funciona el bust y boost](http://electronics.stackexchange.com/questions/206023/is-it-safe-to-use-esp8266-with-3-7v)
