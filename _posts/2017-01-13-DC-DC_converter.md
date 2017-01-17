@@ -33,3 +33,10 @@ https://es.aliexpress.com/item/New-Mini-Converter-Adjustable-DC-DC-Step-down-Pow
 https://es.aliexpress.com/item/5pcs-lot-1A-dedicated-lithium-battery-charging-pad-charging-module-lithium-battery-charger-TP4056-Special-promotions/1800719454.html?spm=2114.13010608.0.0.npKUQ5
 
 ![4](https://ae01.alicdn.com/kf/HTB1Mi60IXXXXXbSXpXXq6xXFXXXA/201814048/HTB1Mi60IXXXXXbSXpXXq6xXFXXXA.jpg?size=42159&height=600&width=800&hash=81d3fe693396c6d31c22b7498eb6d6a5)
+
+
+## [Cómo funciona TP4056](http://www.instructables.com/id/ESP8266-Li-Ion-Battery-rechargeable-battery-power-/)
+
+[¿el mismo?](http://www.esp8266-projects.com/2015/03/mailbag-arrival-new-battery-solution.html)
+
+![a](https://cdn.instructables.com/FDA/38GT/I8BGIASB/FDA38GTI8BGIASB.MEDIUM.jpg?width=614)
