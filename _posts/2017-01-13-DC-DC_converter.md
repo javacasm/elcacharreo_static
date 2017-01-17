@@ -43,3 +43,6 @@ https://es.aliexpress.com/item/5pcs-lot-1A-dedicated-lithium-battery-charging-pa
 
 
 ## [Cómo funciona el bust y boost](http://electronics.stackexchange.com/questions/206023/is-it-safe-to-use-esp8266-with-3-7v)
+
+
+## [Constant Current](http://www.hwelectrons.com/?q=node/5)
