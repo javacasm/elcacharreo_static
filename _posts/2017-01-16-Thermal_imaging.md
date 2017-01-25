@@ -20,3 +20,5 @@ Probablemente el sensor de 4€ no sea suficientemente preciso para el barrido, 
 [Detalles en Playground](http://playground.arduino.cc/Code/MLX90614)
 
 [Detalles técnicos de LuisLlamas](http://www.luisllamas.es/2016/10/arduino-y-el-termometro-infrarrojo-a-distancia-mlx90614/)
+
+[Ejemplo práctico con un termómetro de pistola](http://www.niklasroy.com/project/195/DIY_thermal_imaging) consigue una resolución de 70x40 pixels.... Y es fÁcil!!! También en el [blog de arduino](https://blog.arduino.cc/2017/01/24/ir-thermometer-hacked-into-an-ir-camera/)
