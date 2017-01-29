@@ -7,18 +7,6 @@ Usando una placa STM32F103
 https://github.com/pingumacpenguin/STM32-O-Scope/wiki/Construction
 https://github.com/pingumacpenguin/STM32-O-Scope/wiki/Construction-part2
 
-[Circuito.io](https://circuito.io/) es una página web que no genera un diseño para comenzar un proyecto a partir de los elementos que queremos que éste tenga, es decir, seleccionamos la placa controladora (entre algunos de los diferentes modelos de arduino soportados ahora mismo), los sensores, motores, etc que necesitas y a obtenemos un esquema del montaje, y un fragmento del código arduino para usar los elementos.
+Osciloscopio con Arduino Mega
 
-![seleccion](https://circuito.io/static/images/plan_gif.gif)
-
-El diseño se obtiene en formato fritzing
-
-
-![esquema](https://circuito.io/static/images/wire_gif.gif)
-
-
-y el código para arduino
-
-![código](https://circuito.io/static/images/code_gif.gif)
-
-Sin duda una excelente herramienta para aquellos que quieren trabajar con proyectos y prefieren comenzar rápidamente
+https://www.element14.com/community/community/arduino/blog/2014/12/26/a-simple-diy-oscilloscope-with-arduino-uno-and-mega?CMP=SOM-BLOG-MVAUPELL-ARDUINO-TW
