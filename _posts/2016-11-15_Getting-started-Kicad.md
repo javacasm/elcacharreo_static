@@ -1,7 +1,7 @@
 ---
 title: Primeros pasos con Kicad
 layout: post
-published: false
+published: falseº
 ---
 
 ## ¿Qué es Kicad?
@@ -25,3 +25,8 @@ También disponemos de [diferentes tutoriales](http://kicad-pcb.org/help/tutoria
     sudo add-apt-repository --yes ppa:js-reynaud/kicad-4
     sudo apt update
     sudo apt install kicad
+
+## Creación de un circuitos
+## Creamos el squema
+
+![Create schema.png](./images/Create schema.png)
