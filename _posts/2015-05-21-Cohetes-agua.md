@@ -19,6 +19,9 @@ published: false
 
 ## modelos para imprimir
 
+[Modelo para imprimir](http://hackaday.com/2017/02/12/3d-printed-rockets-are-a-gas/)
+
+![modelo para imprimir](https://hackadaycom.files.wordpress.com/2017/02/rocket.png?w=800)
 
 [modelo para imprimir de tapón](http://www.thingiverse.com/thing:13895)
 
