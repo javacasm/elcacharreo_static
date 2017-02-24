@@ -25,7 +25,25 @@ En el caso de la versión para Linux tenemos que instalar los plugins con
 
 En la versión para Windows de Cura ya vienen instaladas las extensiones.
 
+Una vez hayamos configurado nuestra impresión incluiremos el script de PostProcesado
 
+![PostProcesado](https://github.com/javacasm/elcacharreo_static/blob/master/images/Plugin_postprocesado_cura.png?raw=true)
+
+Seleccionamos la opción "Pause at Height"
+
+![Pausa at height](https://github.com/javacasm/elcacharreo_static/blob/master/images/Pause_at_height.png?raw=true)
+
+Y ahora configuramos los parámetros:
+
+"Pause height":  Altura a la que se hará la parada
+"Head Park X" y "Head Park Y" serán donde irá el extrusor al parar, para facilitar el cambio. Yo suelo poner 0,0
+"Retraction": será la cantidad de filamento que se retira del extrusor para quitar el filamento.
+"Extrude amount": cantidad del nuevo filamento que vamos a extruir para limpiar bien la boquilla del filamento anterior.
+"Redo layers": es el numero de capas que se van a repetir para mejorar la adhesión. No suelo utilizarla.
+
+![parametros](https://github.com/javacasm/elcacharreo_static/blob/master/images/Parametros_pause_at_height.png?raw=true)
+
+Podemos añadir varios cambios sin más que añadir más secuencias de comandos
 
 He preparado un breve vídeo sobre como hacerlo a ver si os es útil:
 
@@ -33,3 +51,5 @@ He preparado un breve vídeo sobre como hacerlo a ver si os es útil:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8b5O6pSkeTc" frameborder="0" allowfullscreen></iframe>
 
  (https://youtu.be/8b5O6pSkeTc)
+
+JAVACASM
