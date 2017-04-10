@@ -27,6 +27,15 @@ También disponemos de [diferentes tutoriales](http://kicad-pcb.org/help/tutoria
     sudo apt install kicad
 
 ## Creación de un circuitos
-## Creamos el squema
 
-![Create schema.png](./images/Create schema.png)
+## Creamos el schema
+
+![Create schema.png](../images/Create schema.png)
+
+
+## Guion vídeos
+
+* Qué es una pcb
+* Requisitos
+* Tipos de componentes
+* Alternativas
