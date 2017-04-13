@@ -18,7 +18,7 @@ Comenzaremos viendo las distintas alternativas y sus ventajas e incovenientes
 * Wifi ([algo sobre el tema en este blog](http://blog.elcacharreo.com/tag/wifi/) )
 * Zigbee
 * RF
-* Nordic 
+* Nordic
 * GSM
 
 Veamos una tabla comparativa
@@ -39,13 +39,13 @@ GSM|UART/Serie|medio|ilimitado|1Mb/s|necesita covertura y costes de uso
 
 Veamos algunos proyectos y qué sistema usan
 
-* [Uso de telemetría en drone (en)](http://copter.ardupilot.com/wiki/3dradio/) 
+* [Uso de telemetría en drone (en)](http://copter.ardupilot.com/wiki/3dradio/)
 
 * [Telemetría con dataloger (es)](http://blog.alvarolopez.net/2012/09/inflight-telemetry-and-data-logger-with-arduino/) Utiliza 3DR y su software en la [segunda parte](http://blog.alvarolopez.net/2012/09/telemetria-y-data-logger-with-arduino-part-ii/)
 
 * [Telemetría de cohete de agua](http://www.instructables.com/id/Radio-Telemetry-for-a-Model-Rocket/) Utiliza Jeenode
 
-Parece que los más usados son los sitemas 3DR 
+Parece que los más usados son los sistemas 3DR
 
 ## Veamos dónde comprarlos baratos
 
