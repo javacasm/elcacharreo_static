@@ -13,3 +13,5 @@ published: false
 [Cinemática](http://walter.readthedocs.io/en/latest/Kinematics/)
 
 ![cinematica](http://walter.readthedocs.io/en/latest/images/image027.png)
+
+[Código, diseños, todo...](https://github.com/jochenalt/Walter)
