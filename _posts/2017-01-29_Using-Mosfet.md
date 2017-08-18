@@ -14,6 +14,11 @@ Usando mosfet irfz44n
 
 ![circuito](http://newimgwp.s3.amazonaws.com/9E57_550_33872.jpg)
 
+![Circuito básico](https://arduinodiy.files.wordpress.com/2012/05/fet2_thumb.gif?w=535)
+
+
+![Pinout del BC547](http://www.pesadillo.com/pesadillo/wp-content/uploads/2012/07/bc547_large1.jpg)
+
 [Mosfet, PWM y motores](http://www.neoteo.com/pwm-mosfet-y-motores-cc-parte-iii)
 
 [Usando mosfet](http://forum.arduino.cc/index.php/topic,198040.0.html)
