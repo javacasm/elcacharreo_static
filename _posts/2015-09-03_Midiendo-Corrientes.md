@@ -16,6 +16,9 @@ published: false
 
 ![acs712](https://www.luisllamas.es/wp-content/uploads/2017/01/arduino-sensor-corriente-ACS712-componente.jpg)
 
+
+[Simplified Arduino AC Current measurement](https://www.instructables.com/id/Simplified-Arduino-AC-Current-Measurement-Using-AC/)
+
 ## INA219
 
 [Adafruit INA219](https://learn.adafruit.com/downloads/pdf/adafruit-ina219-current-sensor-breakout.pdf)
