@@ -15,4 +15,6 @@ Contenido del kit
 
 ![Kit](http://p.globalsources.com/IMAGES/PDT/B0824152919/Equipo-del-robot-de-DIY-4-DOF.jpg)
 
+![Piezas](../images/disenioPiezas.png)
+
 [Documentación del kit](https://www.sunfounder.com/learn/oycategory/DIY-4-DOF-Robot-Kit-Sloth.html)
