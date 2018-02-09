@@ -10,3 +10,5 @@ published: false
 [Detalles de dentro](https://es.ifixit.com/Teardown/Pi-top+Teardown/97101)
 
 [Vendedor de pantalla en españa](https://www.ebay.es/itm/B133HAN02-7-LCD-Display-Pantalla-Portatil-13-3-1920x1080-FHD-LED-30pin-eDP-yqy-/401134198870?_trksid=p2385738.m4383.l4275.c10)
+
+[Review de pi-top en Makezine](https://makezine.com/2015/11/16/hands-on-with-pi-top-the-raspberry-pi-powered-laptop/)
