@@ -45,3 +45,5 @@ published: false
 ## proyectos
 
 [Telemetría para cohete de agua](http://www.instructables.com/id/Radio-Telemetry-for-a-Model-Rocket/w)
+
+[Cohete de altas prestaciones](http://www.instructables.com/id/How-to-Build-a-High-Powered-Rocket)
